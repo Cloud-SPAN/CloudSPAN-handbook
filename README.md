@@ -1,5 +1,5 @@
-This is the absolute minimum you need to start a [bookdown](https://bookdown.org/yihui/bookdown/) book. You can find the
-preview of this book at http://seankross.com/bookdown-start/
+This is the handbook for University of York Biology Department's CloudSPAN project.
 
-All of the content of this repository is licensed 
-[CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+This [bookdown](https://bookdown.org/yihui/bookdown/) book was built using Sean Kross' [minimal bookdown repo](https://github.com/seankross/bookdown-start).
+
+
