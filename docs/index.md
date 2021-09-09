@@ -1,15 +1,15 @@
 --- 
-title: "A Minimal Bookdown Book"
-author: "Sean Kross"
-date: "2016-12-09"
+title: "CloudSPAN Handbook"
+author: "Evelyn Greeves"
+date: "2021-09-09"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: seankross/bookdown-start
-url: 'http\://seankross.com/bookdown-start/'
-description: "Everything you need (and nothing more) to start a bookdown book."
+github-repo: evelyngreeves/CloudSPAN-handbook-bookdown
+url: 'https://github.com/evelyngreeves/CloudSPAN-handbook-bookdown'
+description: "Handbook for University of York Biology Department's CloudSPAN project."
 ---
 
 # Preface {-}

@@ -1,11 +1,21 @@
-require(["gitbook", "lodash"], function(gitbook, _) {
+gitbook.require(["gitbook", "lodash", "jQuery"], function(gitbook, _, $) {
     var SITES = {
+        'github': {
+            'label': 'Github',
+            'icon': 'fa fa-github',
+            'onClick': function(e) {
+                e.preventDefault();
+                var repo = $('meta[name="github-repo"]').attr('content');
+                if (typeof repo === 'undefined') throw("Github repo not defined");
+                window.open("https://github.com/"+repo);
+            }
+        },
         'facebook': {
             'label': 'Facebook',
             'icon': 'fa fa-facebook',
             'onClick': function(e) {
                 e.preventDefault();
-                window.open("http://www.facebook.com/sharer/sharer.php?s=100&p[url]="+encodeURIComponent(location.href));
+                window.open("http://www.facebook.com/sharer/sharer.php?u="+encodeURIComponent(location.href));
             }
         },
         'twitter': {
@@ -13,15 +23,15 @@ require(["gitbook", "lodash"], function(gitbook, _) {
             'icon': 'fa fa-twitter',
             'onClick': function(e) {
                 e.preventDefault();
-                window.open("http://twitter.com/home?status="+encodeURIComponent(document.title+" "+location.href));
+                window.open("http://twitter.com/intent/tweet?text="+encodeURIComponent(document.title)+"&url="+encodeURIComponent(location.href)+"&hashtags=rmarkdown,bookdown");
             }
         },
-        'google': {
-            'label': 'Google+',
-            'icon': 'fa fa-google-plus',
+        'linkedin': {
+            'label': 'LinkedIn',
+            'icon': 'fa fa-linkedin',
             'onClick': function(e) {
                 e.preventDefault();
-                window.open("https://plus.google.com/share?url="+encodeURIComponent(location.href));
+                window.open("https://www.linkedin.com/shareArticle?mini=true&url="+encodeURIComponent(location.href)+"&title="+encodeURIComponent(document.title));
             }
         },
         'weibo': {
@@ -34,7 +44,7 @@ require(["gitbook", "lodash"], function(gitbook, _) {
         },
         'instapaper': {
             'label': 'Instapaper',
-            'icon': 'fa fa-instapaper',
+            'icon': 'fa fa-italic',
             'onClick': function(e) {
                 e.preventDefault();
                 window.open("http://www.instapaper.com/text?u="+encodeURIComponent(location.href));
@@ -47,10 +57,21 @@ require(["gitbook", "lodash"], function(gitbook, _) {
                 e.preventDefault();
                 window.open("http://vkontakte.ru/share.php?url="+encodeURIComponent(location.href));
             }
-        }
+        },
+        'whatsapp': {
+            'label': 'Whatsapp',
+            'icon': 'fa fa-whatsapp',
+            'onClick': function(e) {
+                e.preventDefault();
+                var url = encodeURIComponent(location.href);
+                window.open((isMobile() ? "whatsapp://send" : "https://web.whatsapp.com/send") + "?text=" + url);
+            }
+        },
     };
 
-
+    function isMobile() {
+      return !!navigator.maxTouchPoints;
+    }
 
     gitbook.events.bind("start", function(e, config) {
         var opts = config.sharing;
@@ -60,7 +81,7 @@ require(["gitbook", "lodash"], function(gitbook, _) {
         var menu = _.chain(opts.all)
             .map(function(id) {
                 var site = SITES[id];
-
+                if (!site) return;
                 return {
                     text: site.label,
                     onClick: site.onClick
@@ -85,7 +106,8 @@ require(["gitbook", "lodash"], function(gitbook, _) {
 
             gitbook.toolbar.createButton({
                 icon: site.icon,
-                label: site.text,
+                label: site.label,
+                title: site.label,
                 position: 'right',
                 onClick: site.onClick
             });
