@@ -1,4 +1,5 @@
 introduction
+code-of-conduct
 introduction-1
 our-code-of-conduct
 unacceptable-behaviour

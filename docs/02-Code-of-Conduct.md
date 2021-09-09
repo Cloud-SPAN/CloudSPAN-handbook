@@ -1,3 +1,4 @@
+# Code of Conduct
 ---
 title: "Code Of Conduct"
 author: "Evelyn Greeves"
