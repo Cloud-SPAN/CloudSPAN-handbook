@@ -1,8 +1,7 @@
 introduction
 code-of-conduct
-introduction-1
+preamble
 our-code-of-conduct
 unacceptable-behaviour
 acknowledgements
 technical-details
-preamble
