@@ -51,8 +51,8 @@ CloudSPAN prioritizes marginalized people's safety over privileged people's comf
 - Criticism of racist, sexist, cissexist, or otherwise oppressive behavior or assumptions.
 
 ## Acknowledgements
-This Code was heavily adapted from the [Turing Way](https://the-turing-way.netlify.app/community-handbook/coc.html) Code of Conduct, which itself draws from the [Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) and [Alan Turing Institute Data Study Group](https://docs.google.com/document/d/1iv2cizNPUwtEhHqaezAzjIoKkaIX02f7XbYmFMXDTGY/edit#heading=h.eawfypsf8ylf) codes of conduct. Both are licensed for reuse under a [CC BY 4.0 CA](https://creativecommons.org/licenses/by/4.0/) license.
+This Code was adapted from the [Turing Way](https://the-turing-way.netlify.app/community-handbook/coc.html) Code of Conduct, which itself draws from the [Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) and [Alan Turing Institute Data Study Group](https://docs.google.com/document/d/1iv2cizNPUwtEhHqaezAzjIoKkaIX02f7XbYmFMXDTGY/edit#heading=h.eawfypsf8ylf) codes of conduct. Both are licensed for reuse under a [CC BY 4.0 CA](https://creativecommons.org/licenses/by/4.0/) license.
 
-Material was also drawn from the [R Community Diversity, Equity, and Inclusion Working Group](https://github.com/RConsortium/RCDI-WG/blob/0ca0a91dccc9296ff53a5806f52a2a49dbb8850d/conduct/code-of-conductd), also licensed under [CC BY 4.0 CA](https://creativecommons.org/licenses/by/4.0/).
+Material was additionally drawn from the [R Community Diversity, Equity, and Inclusion Working Group](https://github.com/RConsortium/RCDI-WG/blob/0ca0a91dccc9296ff53a5806f52a2a49dbb8850d/conduct/code-of-conductd), also licensed under [CC BY 4.0 CA](https://creativecommons.org/licenses/by/4.0/).
 
 
