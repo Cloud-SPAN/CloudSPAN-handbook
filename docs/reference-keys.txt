@@ -1,4 +1,6 @@
 introduction
+about-cloud-span
+about-this-handbook
 code-of-conduct
 preamble
 our-code-of-conduct
