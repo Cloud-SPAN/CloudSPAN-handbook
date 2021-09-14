@@ -7,3 +7,5 @@ our-code-of-conduct
 unacceptable-behaviour
 acknowledgements
 contributing-guide
+fair-principles
+what-is-fair-data
