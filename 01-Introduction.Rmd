@@ -1,4 +1,6 @@
 # Introduction
 
-This is the first real chapter.
+##About Cloud-SPAN
+Cloud-SPAN deploys high quality learning resources that will train researchers to effectively generate and analyse a range of 'omics data using Cloud computing resources.
 
+Cloud-Span is a collaboration between University of York's [Biology Department](https://www.york.ac.uk/biology/) and the [Software Sustainability Institute](https://www.software.ac.uk/). It draws funding from [BBSRC via UKRI](https://gtr.ukri.org/projects?ref=MR%2FV038680%2F1).
