@@ -6,7 +6,7 @@ Read the book :sparkles: [here](https://cloud-span.github.io/CloudSPAN-handbook-
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -18,6 +18,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/evelyngreeves"><img src="https://avatars.githubusercontent.com/u/89016177?v=4?s=100" width="100px;" alt=""/><br /><sub><b>evelyngreeves</b></sub></a><br /><a href="#ideas-evelyngreeves" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/3mmaRand"><img src="https://avatars.githubusercontent.com/u/7593411?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Emma Rand</b></sub></a><br /><a href="#content-3mmaRand" title="Content">🖋</a> <a href="#ideas-3mmaRand" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-3mmaRand" title="Maintenance">🚧</a> <a href="#projectManagement-3mmaRand" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://github.com/JorgeBCh"><img src="https://avatars.githubusercontent.com/u/72130016?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JorgeBCh</b></sub></a><br /><a href="#content-JorgeBCh" title="Content">🖋</a></td>
   </tr>
 </table>
 
