@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Chapter 1 Introduction | CloudSPAN Handbook</title>
   <meta name="description" content="Handbook for University of York Biology Department’s CloudSPAN project." />
-  <meta name="generator" content="bookdown 0.23 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Chapter 1 Introduction | CloudSPAN Handbook" />
   <meta property="og:type" content="book" />
@@ -24,7 +24,7 @@
 <meta name="author" content="Evelyn Greeves" />
 
 
-<meta name="date" content="2021-09-14" />
+<meta name="date" content="2021-09-15" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -33,7 +33,9 @@
   
 <link rel="prev" href="index.html"/>
 <link rel="next" href="code-of-conduct.html"/>
+<script src="libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -49,8 +51,6 @@
 
 
 
-
-<script src="libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
 <link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
 
@@ -74,20 +74,25 @@
 
 <li class="divider"></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Preface</a></li>
-<li class="chapter" data-level="1" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>1</b> Introduction</a><ul>
+<li class="chapter" data-level="1" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>1</b> Introduction</a>
+<ul>
 <li class="chapter" data-level="1.1" data-path="introduction.html"><a href="introduction.html#about-cloud-span"><i class="fa fa-check"></i><b>1.1</b> About Cloud-SPAN</a></li>
 <li class="chapter" data-level="1.2" data-path="introduction.html"><a href="introduction.html#about-this-handbook"><i class="fa fa-check"></i><b>1.2</b> About this handbook</a></li>
 </ul></li>
-<li class="chapter" data-level="2" data-path="code-of-conduct.html"><a href="code-of-conduct.html"><i class="fa fa-check"></i><b>2</b> Code of Conduct</a><ul>
+<li class="chapter" data-level="2" data-path="code-of-conduct.html"><a href="code-of-conduct.html"><i class="fa fa-check"></i><b>2</b> Code of Conduct</a>
+<ul>
 <li class="chapter" data-level="2.1" data-path="code-of-conduct.html"><a href="code-of-conduct.html#preamble"><i class="fa fa-check"></i><b>2.1</b> Preamble</a></li>
-<li class="chapter" data-level="2.2" data-path="code-of-conduct.html"><a href="code-of-conduct.html#our-code-of-conduct"><i class="fa fa-check"></i><b>2.2</b> Our Code of Conduct</a><ul>
+<li class="chapter" data-level="2.2" data-path="code-of-conduct.html"><a href="code-of-conduct.html#our-code-of-conduct"><i class="fa fa-check"></i><b>2.2</b> Our Code of Conduct</a>
+<ul>
 <li class="chapter" data-level="2.2.1" data-path="code-of-conduct.html"><a href="code-of-conduct.html#unacceptable-behaviour"><i class="fa fa-check"></i><b>2.2.1</b> Unacceptable Behaviour</a></li>
 </ul></li>
 <li class="chapter" data-level="2.3" data-path="code-of-conduct.html"><a href="code-of-conduct.html#acknowledgements"><i class="fa fa-check"></i><b>2.3</b> Acknowledgements</a></li>
 </ul></li>
 <li class="chapter" data-level="3" data-path="contributing-guide.html"><a href="contributing-guide.html"><i class="fa fa-check"></i><b>3</b> Contributing Guide</a></li>
-<li class="chapter" data-level="4" data-path="fair-principles.html"><a href="fair-principles.html"><i class="fa fa-check"></i><b>4</b> FAIR Principles</a><ul>
-<li class="chapter" data-level="4.1" data-path="fair-principles.html"><a href="fair-principles.html#what-is-fair-data"><i class="fa fa-check"></i><b>4.1</b> What is FAIR data?</a><ul>
+<li class="chapter" data-level="4" data-path="fair-principles.html"><a href="fair-principles.html"><i class="fa fa-check"></i><b>4</b> FAIR Principles</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="fair-principles.html"><a href="fair-principles.html#what-is-fair-data"><i class="fa fa-check"></i><b>4.1</b> What is FAIR data?</a>
+<ul>
 <li class="chapter" data-level="" data-path="fair-principles.html"><a href="fair-principles.html#findable"><i class="fa fa-check"></i>Findable</a></li>
 <li class="chapter" data-level="" data-path="fair-principles.html"><a href="fair-principles.html#accessible"><i class="fa fa-check"></i>Accessible</a></li>
 <li class="chapter" data-level="" data-path="fair-principles.html"><a href="fair-principles.html#interoperable"><i class="fa fa-check"></i>Interoperable</a></li>
@@ -114,14 +119,14 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="introduction" class="section level1">
+<div id="introduction" class="section level1" number="1">
 <h1><span class="header-section-number">Chapter 1</span> Introduction</h1>
-<div id="about-cloud-span" class="section level2">
+<div id="about-cloud-span" class="section level2" number="1.1">
 <h2><span class="header-section-number">1.1</span> About Cloud-SPAN</h2>
 <p>Cloud-SPAN deploys high quality learning resources that will train researchers to effectively generate and analyse a range of ’omics data using Cloud computing resources.</p>
 <p>Cloud-SPAN is collaboration between <a href="https://www.york.ac.uk/biology/">Department of Biology</a> at the University of York and the <a href="https://www.software.ac.uk/">Software Sustainability Institute</a> funded by the <a href="https://www.ukri.org/news/initiatives-boost-health-and-bioscience-skills-and-industry/">UKRI innovation scholars award</a>. Project Reference: <a href="https://gtr.ukri.org/projects?ref=MR%2FV038680%2F1">MR/V038680/1</a></p>
 </div>
-<div id="about-this-handbook" class="section level2">
+<div id="about-this-handbook" class="section level2" number="1.2">
 <h2><span class="header-section-number">1.2</span> About this handbook</h2>
 <p>This handbook is intended as a guide to project ethos…</p>
 
@@ -137,7 +142,6 @@
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -178,7 +182,7 @@ gitbook.start({
 },
 "download": ["CloudSPAN-handbook.pdf", "CloudSPAN-handbook.epub"],
 "search": {
-"engine": "lunr",
+"engine": "fuse",
 "options": null
 },
 "toc": {

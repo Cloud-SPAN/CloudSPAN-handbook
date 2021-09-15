@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>Chapter 4 FAIR Principles | CloudSPAN Handbook</title>
   <meta name="description" content="Handbook for University of York Biology Department’s CloudSPAN project." />
-  <meta name="generator" content="bookdown 0.23 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
   <meta property="og:title" content="Chapter 4 FAIR Principles | CloudSPAN Handbook" />
   <meta property="og:type" content="book" />
@@ -24,7 +24,7 @@
 <meta name="author" content="Evelyn Greeves" />
 
 
-<meta name="date" content="2021-09-14" />
+<meta name="date" content="2021-09-15" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -33,7 +33,9 @@
   
 <link rel="prev" href="contributing-guide.html"/>
 
+<script src="libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -49,8 +51,6 @@
 
 
 
-
-<script src="libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
 <link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
 
@@ -74,20 +74,25 @@
 
 <li class="divider"></li>
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Preface</a></li>
-<li class="chapter" data-level="1" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>1</b> Introduction</a><ul>
+<li class="chapter" data-level="1" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>1</b> Introduction</a>
+<ul>
 <li class="chapter" data-level="1.1" data-path="introduction.html"><a href="introduction.html#about-cloud-span"><i class="fa fa-check"></i><b>1.1</b> About Cloud-SPAN</a></li>
 <li class="chapter" data-level="1.2" data-path="introduction.html"><a href="introduction.html#about-this-handbook"><i class="fa fa-check"></i><b>1.2</b> About this handbook</a></li>
 </ul></li>
-<li class="chapter" data-level="2" data-path="code-of-conduct.html"><a href="code-of-conduct.html"><i class="fa fa-check"></i><b>2</b> Code of Conduct</a><ul>
+<li class="chapter" data-level="2" data-path="code-of-conduct.html"><a href="code-of-conduct.html"><i class="fa fa-check"></i><b>2</b> Code of Conduct</a>
+<ul>
 <li class="chapter" data-level="2.1" data-path="code-of-conduct.html"><a href="code-of-conduct.html#preamble"><i class="fa fa-check"></i><b>2.1</b> Preamble</a></li>
-<li class="chapter" data-level="2.2" data-path="code-of-conduct.html"><a href="code-of-conduct.html#our-code-of-conduct"><i class="fa fa-check"></i><b>2.2</b> Our Code of Conduct</a><ul>
+<li class="chapter" data-level="2.2" data-path="code-of-conduct.html"><a href="code-of-conduct.html#our-code-of-conduct"><i class="fa fa-check"></i><b>2.2</b> Our Code of Conduct</a>
+<ul>
 <li class="chapter" data-level="2.2.1" data-path="code-of-conduct.html"><a href="code-of-conduct.html#unacceptable-behaviour"><i class="fa fa-check"></i><b>2.2.1</b> Unacceptable Behaviour</a></li>
 </ul></li>
 <li class="chapter" data-level="2.3" data-path="code-of-conduct.html"><a href="code-of-conduct.html#acknowledgements"><i class="fa fa-check"></i><b>2.3</b> Acknowledgements</a></li>
 </ul></li>
 <li class="chapter" data-level="3" data-path="contributing-guide.html"><a href="contributing-guide.html"><i class="fa fa-check"></i><b>3</b> Contributing Guide</a></li>
-<li class="chapter" data-level="4" data-path="fair-principles.html"><a href="fair-principles.html"><i class="fa fa-check"></i><b>4</b> FAIR Principles</a><ul>
-<li class="chapter" data-level="4.1" data-path="fair-principles.html"><a href="fair-principles.html#what-is-fair-data"><i class="fa fa-check"></i><b>4.1</b> What is FAIR data?</a><ul>
+<li class="chapter" data-level="4" data-path="fair-principles.html"><a href="fair-principles.html"><i class="fa fa-check"></i><b>4</b> FAIR Principles</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="fair-principles.html"><a href="fair-principles.html#what-is-fair-data"><i class="fa fa-check"></i><b>4.1</b> What is FAIR data?</a>
+<ul>
 <li class="chapter" data-level="" data-path="fair-principles.html"><a href="fair-principles.html#findable"><i class="fa fa-check"></i>Findable</a></li>
 <li class="chapter" data-level="" data-path="fair-principles.html"><a href="fair-principles.html#accessible"><i class="fa fa-check"></i>Accessible</a></li>
 <li class="chapter" data-level="" data-path="fair-principles.html"><a href="fair-principles.html#interoperable"><i class="fa fa-check"></i>Interoperable</a></li>
@@ -114,9 +119,9 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="fair-principles" class="section level1">
+<div id="fair-principles" class="section level1" number="4">
 <h1><span class="header-section-number">Chapter 4</span> FAIR Principles</h1>
-<div id="what-is-fair-data" class="section level2">
+<div id="what-is-fair-data" class="section level2" number="4.1">
 <h2><span class="header-section-number">4.1</span> What is FAIR data?</h2>
 <style>
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 10px;}
@@ -125,14 +130,15 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 10px;}
 <p>FAIR data is <strong>Findable</strong>, <strong>Accessible</strong>, <strong>Interoperable</strong> and <strong>Reusable</strong>.</p>
 </div>
 <p>These principles are designed to help both humans and machines find and reuse data as easily as possible. They are aspirational but tangible steps can be made towards realising them.</p>
+<p>You can read about the ethical values underlying the FAIR principles via the FAIR Cookbook <a href="https://fairplus.github.io/the-fair-cookbook/content/recipes/introduction/FAIRplus-values.html">here</a>.</p>
 <div id="findable" class="section level3 unnumbered">
 <h3>Findable</h3>
 <p><strong>Findable</strong> is all about making sure data/resources are as easy to find as possible.</p>
 <p>How we’re making resources <strong>findable</strong> at Cloud-SPAN:</p>
 <ul>
-<li>We will be assigning persistent identifiers to our teaching materials to prevent “link rot”, or broken links.</li>
-<li>We will register our teaching materials with an appropriate registry (e.g. Carpentries Incubator), so it is easier to find.</li>
-<li>We will be describing all our resources with rich metadata so it can be aggregated by the right registries.</li>
+<li>We will be assigning persistent identifiers to our teaching materials to prevent “link rot,” or broken links.</li>
+<li>We will register our teaching materials with an appropriate registry (e.g. Carpentries Incubator), so they areeasier to find.</li>
+<li>We will be describing all our resources with rich metadata so they can be aggregated by the right registries.</li>
 </ul>
 </div>
 <div id="accessible" class="section level3 unnumbered">
@@ -140,7 +146,7 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 10px;}
 <p><strong>Accessible</strong> means it is easy to find out how to access the data/resources.</p>
 <p>How we’re making resources <strong>accessible</strong> at Cloud-SPAN:</p>
 <ul>
-<li>xyz</li>
+<li>Our resources will be openly available, with no caveats, for use by those who cannot attend our workshops or who prefer self-led study.</li>
 </ul>
 </div>
 <div id="interoperable" class="section level3 unnumbered">
@@ -148,7 +154,8 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 10px;}
 <p><strong>Interoperable</strong> means data/resources can be easily integrated with other data/resources, and be viewable in different programs, applications or workflows.</p>
 <p>How we’re making resources <strong>interoperable</strong> at CLOUD-SPAN:</p>
 <ul>
-<li>xyz</li>
+<li>We will supply data which is readable across differeny programs</li>
+<li>We are providing resources in Markdown, meaning they should dislay in most browsers.</li>
 </ul>
 </div>
 <div id="reusable" class="section level3 unnumbered">
@@ -156,7 +163,8 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 10px;}
 <p><strong>Reusable</strong> is about making sure that data/resources are suitable for re-use in different settings.</p>
 <p>How we’re making resources <strong>reusable</strong> at CLOUD-SPAN:</p>
 <ul>
-<li>xyz</li>
+<li>We will be applying Creative Commons licenses to our resources so they can be reused and remixed by others.</li>
+<li>We welcome (and encourage!) outside contributions of explanations and examples - see the <a href="contributing-guide.html#contributing-guide">Contributing Guide</a> for more information.</li>
 </ul>
 
 </div>
@@ -172,7 +180,6 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 10px;}
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -213,7 +220,7 @@ gitbook.start({
 },
 "download": ["CloudSPAN-handbook.pdf", "CloudSPAN-handbook.epub"],
 "search": {
-"engine": "lunr",
+"engine": "fuse",
 "options": null
 },
 "toc": {
