@@ -8,3 +8,17 @@ Cloud-SPAN is collaboration between [Department of Biology](https://www.york.ac.
 
 ## About this handbook
 This handbook is intended as a guide to project ethos...
+
+## Our Team
+## Project team
+
+| Name | Role | % working on the project | Time period allocated to the project | Institution |
+|---|---|---|---|---|
+| Emma Rand | PI |  | 2020-22  | Uni of York |
+| James Chong | PI |  | 2020-22|  Uni of York |
+| Jorge Buenabad-Chavez |  | 100% | 2020-22 | Uni of York |
+| Evelyn Greeves |  | 60% | 2020-22 | Uni of York |
+| Sarah Dowsland | Administrator | 50% | 2020-22 | Uni of York |
+| Annabel Cansdale |  | 25% | 2020-22 | Uni of York |
+| Sarah Forrester |  | 20% | 2020-22 | Uni of York |
+| Neil Chue Hong | | | 2020-22 | Software Sustainability Institute |

@@ -1,6 +1,8 @@
 introduction
 about-cloud-span
 about-this-handbook
+our-team
+project-team
 code-of-conduct
 preamble
 our-code-of-conduct
@@ -8,6 +10,6 @@ unacceptable-behaviour
 acknowledgements
 contributing-guide
 ways-to-contribute
-how-to-contribute
+how-to-contribute-content
 fair-principles
 what-is-fair-data

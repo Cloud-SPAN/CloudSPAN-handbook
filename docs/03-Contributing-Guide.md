@@ -14,7 +14,7 @@ and
 "Creating barriers to entry just reduces the number of people there’s a chance to identify, educate and potentially grow into greater contributors."
 
 ## Ways to contribute
-
+Will contain ways to contribute from attending the course to developing material and bug-fixing.
 
 ### Learn {-}
 - Attend or work through our Foundations in Genomics course
@@ -25,7 +25,8 @@ and
 ### Help {-}
 
 ### Expand {-}
-- Suggest new/different softwares for analysis
+- Suggest new/different software tools for analysis
 - Contribute new examples
 
-## How to contribute
+## How to contribute content
+Will contain basic Github instructions and our specific guidelines/workflow for contributing code
