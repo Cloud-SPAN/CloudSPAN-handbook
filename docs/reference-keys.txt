@@ -8,10 +8,6 @@ unacceptable-behaviour
 acknowledgements
 contributing-guide
 ways-to-contribute
-learn
-connect
-help
-expand
 how-to-contribute
 fair-principles
 what-is-fair-data

@@ -1,5 +1,5 @@
 # Contributing Guide
-:construction: Under construction :construction:
+⚠️ **Under construction** ⚠️
 
 From the Node.js [base contribution policy](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951):
 
@@ -16,15 +16,15 @@ and
 ## Ways to contribute
 
 
-### Learn
+### Learn {-}
 - Attend or work through our Foundations in Genomics course
 
-### Connect
+### Connect {-}
 - Join our *Community of Practice*
 
-### Help
+### Help {-}
 
-### Expand
+### Expand {-}
 - Suggest new/different softwares for analysis
 - Contribute new examples
 
