@@ -1,7 +1,7 @@
 --- 
 title: "CloudSPAN Handbook"
 author: "Evelyn Greeves"
-date: "2021-09-15"
+date: "2021-09-16"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
