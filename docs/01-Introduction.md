@@ -14,11 +14,11 @@ This handbook is intended as a guide to project ethos...
 
 | Name | Role | % working on the project | Time period allocated to the project | Institution |
 |---|---|---|---|---|
-| Emma Rand | PI |  | 2020-22  | Uni of York |
-| James Chong | PI |  | 2020-22|  Uni of York |
-| Jorge Buenabad-Chavez |  | 100% | 2020-22 | Uni of York |
-| Evelyn Greeves |  | 60% | 2020-22 | Uni of York |
+| Emma Rand | Project overight | 20% | 2020-22  | Uni of York |
+| James Chong | Project oversight |  10% | 2020-22|  Uni of York |
+| Jorge Buenabad-Chavez | Content developer and Cloud deliverer | 100% | 2020-22 | Uni of York |
+| Evelyn Greeves | Content developer and FAIR/CoP deliverer | 60% | 2020-22 | Uni of York |
 | Sarah Dowsland | Administrator | 50% | 2020-22 | Uni of York |
-| Annabel Cansdale |  | 25% | 2020-22 | Uni of York |
-| Sarah Forrester |  | 20% | 2020-22 | Uni of York |
-| Neil Chue Hong | | | 2020-22 | Software Sustainability Institute |
+| Annabel Cansdale | Content developer | 20% | 2020-22 | Uni of York |
+| Sarah Forrester | Content developer | 20% | 2020-22 | Uni of York |
+| Neil Chue Hong | Straetgic advisor  | 10% | 2020-22 | Software Sustainability Institute |
