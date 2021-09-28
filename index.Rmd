@@ -1,7 +1,5 @@
 --- 
 title: "CloudSPAN Handbook"
-author: "Evelyn Greeves"
-date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
