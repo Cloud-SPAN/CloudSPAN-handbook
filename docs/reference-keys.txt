@@ -8,10 +8,8 @@ preamble
 our-code-of-conduct
 unacceptable-behaviour
 acknowledgements
-contributing-guide
+the-cloud-span-commmunity
 ways-to-contribute
-how-to-contribute-content
 using-github-to-contribute
 fair-principles
 what-is-fair-data
-the-cloud-span-commmunity

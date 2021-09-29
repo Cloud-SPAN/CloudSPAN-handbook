@@ -3,7 +3,7 @@
 
 Our aim is to build a friendly and involved community of people who have used our resources, are interested in our resources, or who have expertise in the areas we cover.
 
-That means that whether you are:\
+That means that whether you are...\
 
 🧬 an expert in 'omics analyses \
 🤔 a complete newbie at 'omics \
@@ -11,7 +11,7 @@ That means that whether you are:\
 ☁️ an experienced Cloud user\
 😵 a little bewildered by the Cloud\
 
-then the Cloud-SPAN community is for you!
+...then the Cloud-SPAN community is for you!
 
 There are lots of ways to contribute and we welcome all of them! Contributing, and joining our community, doesn't have to mean writing technical code.
 
@@ -39,9 +39,6 @@ Here are some ideas of ways you can contribute:
 ## Using Github to contribute
 We use Github as a tool for managing version control (AKA keeping a record of the project's development). This helps us stay accountable and transparent. It's also one of the ways we are making steps towards adhering to the [FAIR Principles].
 
-If you want to contribute any content such as an update to the course or a new example then via GitHub is the best place to get in contact. For lots more guidance about how to contribute via GitHub, read our Contribution Guide.
+If you want to contribute any content such as an update to the course or a new example then via GitHub is the best place to get in contact. For lots more guidance about how to contribute via GitHub, read our GitHub Contribution Guide.
 
 Git (the programming language underlying Github) and Github can be a little intimidating at first but don't worry, the team are here to hold your hand! 🤝
-
-Whether you have something to contribute, a question to ask or a suggestion to make, the first thing you should do is [open an issue]("https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues"). This keeps us up to date with any changes you're thinking about and helps prevent unnecessary conflict between versions.
-
