@@ -1,6 +1,6 @@
 # Code of Conduct
 
-A copy of this code of conduct is also avaiable in the [Cloud-SPAN Community Handbook]("https://cloud-span.github.io/CloudSPAN-handbook-bookdown/code-of-conduct.html").
+A copy of this code of conduct is also available in the [Cloud-SPAN Community Handbook]("https://cloud-span.github.io/CloudSPAN-handbook-bookdown/code-of-conduct.html").
 
 ## Preamble
 The CloudSPAN team are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. As such, we do not tolerate behaviour that is disrespectful to our community members or that excludes, intimidates, or causes discomfort to others. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to: gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, and experience level.
