@@ -14,3 +14,4 @@ how-to-contribute-content
 using-github-to-contribute
 fair-principles
 what-is-fair-data
+the-cloud-span-commmunity
