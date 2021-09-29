@@ -11,5 +11,6 @@ acknowledgements
 contributing-guide
 ways-to-contribute
 how-to-contribute-content
+using-github-to-contribute
 fair-principles
 what-is-fair-data

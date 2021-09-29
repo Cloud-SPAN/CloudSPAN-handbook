@@ -30,3 +30,12 @@ Will contain ways to contribute from attending the course to developing material
 
 ## How to contribute content
 Will contain basic Github instructions and our specific guidelines/workflow for contributing code
+
+We're really excited that you are interested in contributing content to the Cloud-SPAN project! Sit down, help yourself to tea and biscuits ☕ 🍪
+
+### Using Github to contribute
+We use Github as a tool for managing version control (AKA keeping a record of the project's development). This helps us stay accountable and transparent. It's also one of the ways we are making steps towards sticking to the [FAIR Principles].
+
+Git (the programming language underlying Github) and Github can be a little intimidating at first but don't worry, the team are here to hold your hand 🤝
+
+Whether you have something to contribute, a question to ask or a suggestion to make, the first thing you should do is [open an issue]("https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues"). This keeps us up to date with any changes you're thinking about and helps prevent unnecessary conflict between versions.
