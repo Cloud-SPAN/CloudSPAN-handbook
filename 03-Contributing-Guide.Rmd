@@ -33,12 +33,11 @@ Here are some ideas of ways you can contribute:
 ### Expand {-}
 - Suggest new/different software tools for analysis.
 - Contribute new examples.
-- Attend one of our 'Train the Trainer" course so you can take parts of the course back to teach at your home institution.
+- Attend one of our 'Train the Trainer" courses so you can take parts of the course back to teach at your home institution.
 
+## Using GitHub to contribute
+We use GitHub as a tool for managing version control (AKA keeping a record of the project's development). This helps us stay accountable and transparent. It's also one of the ways we are making steps towards adhering to the [FAIR Principles].
 
-## Using Github to contribute
-We use Github as a tool for managing version control (AKA keeping a record of the project's development). This helps us stay accountable and transparent. It's also one of the ways we are making steps towards adhering to the [FAIR Principles].
-
-If you want to contribute any content such as an update to the course or a new example then via GitHub is the best place to get in contact. For lots more guidance about how to contribute via GitHub, read our GitHub Contribution Guide.
+If you want to contribute any content such as an update to the course or a new example then via GitHub is the best place to get in contact. For lots more guidance about how to contribute via GitHub, read our [GitHub Contribution Guide]("https://github.com/Cloud-SPAN/CloudSPAN-handbook-bookdown/blob/master/CONTRIBUTING.md").
 
 Git (the programming language underlying Github) and Github can be a little intimidating at first but don't worry, the team are here to hold your hand! `r emo::ji("handshake")`
