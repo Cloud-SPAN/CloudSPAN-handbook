@@ -4,7 +4,7 @@ This is the handbook for University of York Biology Department's CloudSPAN proje
 
 This [bookdown](https://bookdown.org/yihui/bookdown/) book was built using Sean Kross' [minimal bookdown repo](https://github.com/seankross/bookdown-start).
 
-Read the book :sparkles: [here](https://cloud-span.github.io/CloudSPAN-handbook-bookdown/) :sparkles:
+Read the book :sparkles: [here](https://cloud-span.github.io/CloudSPAN-handbook/) :sparkles:
 
 ## Contributors ✨
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
