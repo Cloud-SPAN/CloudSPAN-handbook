@@ -101,13 +101,30 @@ If you have opened the pull request early and know that its contents are not rea
 When you are happy with it and are happy for it to be merged into the main repository, change the "[WIP]" in the title of the pull request to "[Ready for review]".
 
 A member of Cloud-SPAN team will then review your changes to confirm that they can be merged into the main repository.
-A [review][https://help.github.com/articles/about-pull-request-reviews] will probably consist of a few questions to help clarify the work you've done.
+A [review](https://help.github.com/articles/about-pull-request-reviews) will probably consist of a few questions to help clarify the work you've done.
 Keep an eye on your GitHub notifications and be prepared to join in that conversation.
 
 You can update your [fork](https://help.github.com/articles/fork-a-repo) of the repo and the pull request will automatically update with those changes.
 You don't need to submit a new pull request when you make a change in response to a review.
 
 GitHub has a [nice introduction](https://guides.github.com/introduction/flow) to the pull request workflow, but please get in touch if you have any questions :balloon:.
+
+## Recognising Contributions
+
+We welcome and recognise all kinds of contributions, from reporting/fixing bugs, to developing documentation, asking questions, answering questions, or suggesting new examples.
+Cloud-SPAN follows the [all-contributors](https://github.com/kentcdodds/all-contributors#emoji-key) specifications.
+The all-contributors bot usage is described [here](https://allcontributors.org/docs/en/bot/usage).
+
+The Cloud-SPAN project is split across multiple repos, so we use **this repo** (Cloud-SPAN-handbook) as our community hub.
+Regardless of which repo/lesson you have contributed to, we invite you to add yourself as a contributor here.
+To add yourself or someone else as a contributor, comment on the 'add contributor' issue in this repo with the following:
+
+```
+@all-contributors please add <username> for <contributions>
+```
+
+You can see the [Emoji Key (Contribution Types Reference)](https://allcontributors.org/docs/en/emoji-key) for a list of valid `<contribution>` types.
+The bot will then create a Pull Request to add the contributor and reply with the pull request details.
 
 ---
 
