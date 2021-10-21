@@ -78,7 +78,6 @@ Help them help you. :wink:
 While making your changes, commit often and write good, detailed commit messages.
 [This blog](https://chris.beams.io/posts/git-commit/) explains how to write a good Git commit message and why it matters.
 It is also perfectly fine to have a lot of commits - including ones that break code.
-A good rule of thumb is to push up to GitHub when you _do_ have passing tests then the continuous integration (CI) has a good chance of passing everything. ????
 
 If you feel tempted to "branch out" then please make a [new branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository) and a new issue to go with it. [This blog](https://nvie.com/posts/a-successful-git-branching-model/) details the different Git branching models.
 
