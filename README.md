@@ -5,10 +5,10 @@ This is the handbook for University of York Biology Department's [Cloud-SPAN](cl
 Cloud-SPAN wants to teach YOU how to generate and analyse 'omics data using an accessible and easy-to-use cloud setup. You don't even need to have any experience with bioinformatics to access our [foundation course](github.com/Cloud-SPAN/genomics01-intro)!
 
 ## Contents
-:star:[Introduction](https://cloud-span.github.io/CloudSPAN-handbook/introduction.html) \n
-:handshake:[Code of Conduct](https://cloud-span.github.io/CloudSPAN-handbook/code-of-conduct.html) \n
-:family:[The Cloud-SPAN Community](https://cloud-span.github.io/CloudSPAN-handbook/the-cloud-span-commmunity.html) \n
-:pushpin:[FAIR Principles](https://cloud-span.github.io/CloudSPAN-handbook/fair-principles.html) \n
+:star:[Introduction](https://cloud-span.github.io/CloudSPAN-handbook/introduction.html)   
+:handshake:[Code of Conduct](https://cloud-span.github.io/CloudSPAN-handbook/code-of-conduct.html)    
+:family:[The Cloud-SPAN Community](https://cloud-span.github.io/CloudSPAN-handbook/the-cloud-span-commmunity.html)   
+:pushpin:[FAIR Principles](https://cloud-span.github.io/CloudSPAN-handbook/fair-principles.html)   
 
 Our collaborators: [Software Sustainability Institute](software.ac.uk)
 
