@@ -32,8 +32,8 @@ How we're making resources **accessible** at Cloud-SPAN:
 
 How we're making resources **interoperable** at CLOUD-SPAN:
 
-- We will supply data which is readable across differeny programs
-- We are providing resources in Markdown, meaning they should dislay in most browsers.
+- We will supply data which is readable across different programs
+- We are providing resources in Markdown, meaning they should display in most browsers.
 
 ### Reusable {-}
 **Reusable** is about making sure that data/resources are suitable for re-use in different settings.
@@ -41,4 +41,4 @@ How we're making resources **interoperable** at CLOUD-SPAN:
 How we're making resources **reusable** at CLOUD-SPAN:
 
 - We will be applying Creative Commons licenses to our resources so they can be reused and remixed by others.
-- We welcome (and encourage!) outside contributions of explanations and examples - see the [Contributing Guide] for more information.
+- We welcome (and encourage!) outside contributions of explanations and examples - see the [Ways to contribute] for more information.
