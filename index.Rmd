@@ -1,15 +1,16 @@
 --- 
-title: "CloudSPAN Handbook"
+title: "Cloud-SPAN Handbook"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: evelyngreeves/CloudSPAN-handbook-bookdown
-url: 'https://github.com/evelyngreeves/CloudSPAN-handbook-bookdown'
-description: "Handbook for University of York Biology Department's CloudSPAN project."
+github-repo: evelyngreeves/CloudSPAN-handbook
+url: 'https://github.com/evelyngreeves/CloudSPAN-handbook'
+description: "Handbook for University of York Biology Department's Cloud-SPAN project."
 ---
 
 # Preface {-}
+![Cloud-SPAN logo](images/cloud-span-logo-text.png)
 
-This is the very first part of the book.
+This is the handbook for University of York Biology Department's [Cloud-SPAN](cloud-span.york.ac.uk) project.
