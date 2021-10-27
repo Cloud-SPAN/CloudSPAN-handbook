@@ -1,6 +1,6 @@
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 
-This is the handbook for University of York Biology Department's [Cloud-SPAN](cloud-span.york.ac.uk) project. Read the book :sparkles: [here](https://cloud-span.github.io/CloudSPAN-handbook/) :sparkles:
+This is the handbook for University of York Biology Department's [Cloud-SPAN](cloud-span.york.ac.uk) project. Read the book :sparkles: [here](https://cloud-span.github.io/CloudSPAN-handbook/) :sparkles:.
 
 ## What is Cloud-SPAN?
 Cloud-SPAN wants to teach YOU how to generate and analyse 'omics data using an accessible and easy-to-use cloud setup. You don't even need to have any experience with bioinformatics to access our [foundation course](github.com/Cloud-SPAN/genomics01-intro)!
