@@ -13,3 +13,4 @@ ways-to-contribute
 using-github-to-contribute
 fair-principles
 what-is-fair-data
+forum

@@ -16,7 +16,7 @@ description: "Handbook for University of York Biology Department's Cloud-SPAN pr
 This is the handbook for University of York Biology Department's [Cloud-SPAN](cloud-span.york.ac.uk) project.
 
 ## Handbook Contents 📋 {-}
-:star:[Introduction](https://cloud-span.github.io/CloudSPAN-handbook/introduction.html)   
-:handshake:[Code of Conduct](https://cloud-span.github.io/CloudSPAN-handbook/code-of-conduct.html)  
-:family:[The Cloud-SPAN Community](https://cloud-span.github.io/CloudSPAN-handbook/the-cloud-span-commmunity.html)   
-:pushpin:[FAIR Principles](https://cloud-span.github.io/CloudSPAN-handbook/fair-principles.html) 
+⭐[Introduction](https://cloud-span.github.io/CloudSPAN-handbook/introduction.html)   
+🤝[Code of Conduct](https://cloud-span.github.io/CloudSPAN-handbook/code-of-conduct.html)  
+👪[The Cloud-SPAN Community](https://cloud-span.github.io/CloudSPAN-handbook/the-cloud-span-commmunity.html)   
+📌[FAIR Principles](https://cloud-span.github.io/CloudSPAN-handbook/fair-principles.html) 
