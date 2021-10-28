@@ -20,3 +20,4 @@ This is the handbook for University of York Biology Department's [Cloud-SPAN](cl
 🤝[Code of Conduct](https://cloud-span.github.io/CloudSPAN-handbook/code-of-conduct.html)  
 👪[The Cloud-SPAN Community](https://cloud-span.github.io/CloudSPAN-handbook/the-cloud-span-commmunity.html)   
 📌[FAIR Principles](https://cloud-span.github.io/CloudSPAN-handbook/fair-principles.html) 
+📜[Cloud-SPAN Online Forum](https://cloud-span.github.io/CloudSPAN-handbook/forum.html)
