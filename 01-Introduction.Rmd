@@ -24,6 +24,6 @@ For example, did you know that we have an online forum for questions, suggestion
 | Sarah Dowsland | Project Manager | 50% | 2020-22 | Uni of York |
 | Annabel Cansdale | Content developer | 20% | 2020-22 | Uni of York |
 | Sarah Forrester | Content developer | 20% | 2020-22 | Uni of York |
-| Neil Chue Hong | Straetgic advisor  | 10% | 2020-22 | Software Sustainability Institute |
+| Neil Chue Hong | Strategic advisor  | 10% | 2020-22 | Software Sustainability Institute |
 | Emma Barnes | Project oversight | 20% | 2020-22 | Uni of York |
 | Dan Bishop | Strategic input | 10% | 2020-22 | Uni of York |
