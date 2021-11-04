@@ -21,7 +21,9 @@ For example, did you know that we have an online forum for questions, suggestion
 | James Chong | Project oversight |  10% | 2020-22|  Uni of York |
 | Jorge Buenabad-Chavez | Content developer and Cloud deliverer | 100% | 2020-22 | Uni of York |
 | Evelyn Greeves | Content developer and FAIR/CoP deliverer | 60% | 2020-22 | Uni of York |
-| Sarah Dowsland | Administrator | 50% | 2020-22 | Uni of York |
+| Sarah Dowsland | Project Manager | 50% | 2020-22 | Uni of York |
 | Annabel Cansdale | Content developer | 20% | 2020-22 | Uni of York |
 | Sarah Forrester | Content developer | 20% | 2020-22 | Uni of York |
 | Neil Chue Hong | Straetgic advisor  | 10% | 2020-22 | Software Sustainability Institute |
+| Emma Barnes | Project oversight | 20% | 2020-22 | Uni of York |
+| Dan Bishop | Strategic input | 10% | 2020-22 | Uni of York |
