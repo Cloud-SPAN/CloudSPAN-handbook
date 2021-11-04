@@ -17,7 +17,7 @@ You can read about the ethical values underlying the FAIR principles via the FAI
 How we're making resources **findable** at Cloud-SPAN:
 
 - We will be assigning persistent identifiers to our teaching materials to prevent "link rot", or broken links.
-- We will register our teaching materials with an appropriate registry (e.g. Carpentries Incubator), so they areeasier to find.
+- We will register our teaching materials with an appropriate registry (e.g. Carpentries Incubator), so they are easier to find.
 - We will be describing all our resources with rich metadata so they can be aggregated by the right registries.
 
 ### Accessible {-}
@@ -30,15 +30,15 @@ How we're making resources **accessible** at Cloud-SPAN:
 ### Interoperable {-}
 **Interoperable** means data/resources can be easily integrated with other data/resources, and be viewable in different programs, applications or workflows.
 
-How we're making resources **interoperable** at CLOUD-SPAN:
+How we're making resources **interoperable** at Cloud-SPAN:
 
-- We will supply data which is readable across different programs
+- We will supply data which are readable across different programs
 - We are providing resources in Markdown, meaning they should display in most browsers.
 
 ### Reusable {-}
 **Reusable** is about making sure that data/resources are suitable for re-use in different settings.
 
-How we're making resources **reusable** at CLOUD-SPAN:
+How we're making resources **reusable** at Cloud-SPAN:
 
 - We will be applying Creative Commons licenses to our resources so they can be reused and remixed by others.
 - We welcome (and encourage!) outside contributions of explanations and examples - see the [Ways to contribute] for more information.
