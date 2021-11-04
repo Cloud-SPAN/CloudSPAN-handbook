@@ -127,4 +127,4 @@ The bot will then create a Pull Request to add the contributor and reply with th
 
 ---
 
-These guidelines have been adapted from the [Contributing Guidelines](https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/master/CONTRIBUTING.md) of the [Turing Way](https://github.com/alan-turing-institute/the-turing-way)
+These guidelines were adapted from the [Contributing Guidelines](https://raw.githubusercontent.com/alan-turing-institute/the-turing-way/master/CONTRIBUTING.md) of the [Turing Way](https://github.com/alan-turing-institute/the-turing-way) under a [CC BY 4.0 CA license](https://creativecommons.org/licenses/by/4.0/).
