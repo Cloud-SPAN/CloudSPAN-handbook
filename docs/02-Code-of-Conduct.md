@@ -43,7 +43,7 @@ Examples of unacceptable behaviour by community members at any project event or 
 - continuing to initiate interaction (including photography or recording) with someone after being asked to stop
 - publication of private communication without consent
 
-CloudSPAN prioritizes marginalized people's safety over privileged people's comfort. We will not act on complaints regarding:
+CloudSPAN prioritises marginalised people's safety over privileged people's comfort. We will not act on complaints regarding:
 
 - 'Reverse' -isms, including 'reverse racism,' 'reverse sexism,' and 'cisphobia'.
 - Reasonable communication of boundaries, such as "leave me alone," "go away," or "I'm not discussing this with you."

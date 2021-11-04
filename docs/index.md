@@ -11,13 +11,13 @@ description: "Handbook for University of York Biology Department's Cloud-SPAN pr
 ---
 
 # Preface {-}
-![Cloud-SPAN logo](images/cloud-span-logo-text.png)
+![](images/cloud-span-logo-text.png)
 
-This is the handbook for University of York Biology Department's [Cloud-SPAN](cloud-span.york.ac.uk) project.
+This is the handbook for University of York Biology Department's [Cloud-SPAN](https://cloud-span.york.ac.uk/) project.
 
 ## Handbook Contents 📋 {-}
 ⭐[Introduction](https://cloud-span.github.io/CloudSPAN-handbook/introduction.html)   
 🤝[Code of Conduct](https://cloud-span.github.io/CloudSPAN-handbook/code-of-conduct.html)  
 👪[The Cloud-SPAN Community](https://cloud-span.github.io/CloudSPAN-handbook/the-cloud-span-commmunity.html)   
-📌[FAIR Principles](https://cloud-span.github.io/CloudSPAN-handbook/fair-principles.html) 
+📌[FAIR Principles](https://cloud-span.github.io/CloudSPAN-handbook/fair-principles.html)   
 📜[Cloud-SPAN Online Forum](https://cloud-span.github.io/CloudSPAN-handbook/forum.html)
