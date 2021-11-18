@@ -50,6 +50,16 @@ CloudSPAN prioritises marginalised people's safety over privileged people's comf
 - Communicating in a 'tone' you don't find congenial.
 - Criticism of racist, sexist, cissexist, or otherwise oppressive behavior or assumptions.
 
+## Incident Reporting Guidelines
+
+### Contact points
+
+If you feel able to, please contact Emma Rand by email at emma.rand@york.ac.uk
+
+### Alternate contact points
+If you do not feel comfortable contacting Emma Rand, please report an incident to Evelyn Greeves by email at evelyn.greeves@york.ac.uk
+
+
 ## Acknowledgements
 This Code was adapted from the [Turing Way](https://the-turing-way.netlify.app/community-handbook/coc.html) Code of Conduct, which itself draws from the [Carpentries](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) and [Alan Turing Institute Data Study Group](https://docs.google.com/document/d/1iv2cizNPUwtEhHqaezAzjIoKkaIX02f7XbYmFMXDTGY/edit#heading=h.eawfypsf8ylf) codes of conduct. Both are licensed for reuse under a [CC BY 4.0 CA](https://creativecommons.org/licenses/by/4.0/) license.
 

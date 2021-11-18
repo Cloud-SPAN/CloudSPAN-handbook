@@ -7,6 +7,9 @@ code-of-conduct
 preamble
 our-code-of-conduct
 unacceptable-behaviour
+incident-reporting-guidelines
+contact-points
+alternate-contact-points
 acknowledgements
 the-cloud-span-commmunity
 ways-to-contribute
