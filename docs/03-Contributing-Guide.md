@@ -21,13 +21,13 @@ Here are some ideas of ways you can contribute:
 
 ### Learn {-}
 - Attend or work through our Foundations in Genomics course.
-- Ask questions on our [community forum]("https://cloudspan.peerboard.com/").
+- Ask questions on our [community forum](https://cloudspan.peerboard.com/).
 
 ### Connect {-}
 - Join our *Community of Practice*.
 
 ### Help {-}
-- Answer questions on our [community forum]("https://cloudspan.peerboard.com/").
+- Answer questions on our [community forum](https://cloudspan.peerboard.com/).
 - Tell us about bugs or problems you encounter in the course.
 
 ### Expand {-}
