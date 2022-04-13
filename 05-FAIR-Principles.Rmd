@@ -1,4 +1,4 @@
-# FAIR Principles
+# FAIR Principles {#fair-principles}
 
 ## What is FAIR data?
 <style>
