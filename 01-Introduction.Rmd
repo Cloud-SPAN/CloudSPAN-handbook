@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the Cloud-SPAN Community Handbook! It's great to see you here.
+Welcome to the Cloud-SPAN Community Handbook! It's great to have you here.
 
 ## About Cloud-SPAN
 Cloud-SPAN deploys high quality learning resources that will train researchers to effectively generate and analyse a range of 'omics data using Cloud computing resources.
