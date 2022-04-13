@@ -12,12 +12,12 @@ description: "Handbook for University of York Biology Department's Cloud-SPAN pr
 
 # Welcome! {-}
 ![](images/cloud-span-logo-text.png)
-*Welcome to the [Cloud-SPAN](https://cloud-span.york.ac.uk/)handbook! It's great to have you here!*
+*Welcome to the [Cloud-SPAN](https://cloud-span.york.ac.uk/) handbook! It's great to have you here!*
 
 ## Handbook Contents `r emo::ji("clipboard")` {-}
 `r emo::ji("star")`[Introduction](#intro)   
-`r emo::ji("handshake")`[Code of Conduct](#coc)
-`r emo::ji("graduation_cap")`[Our Courses](#courses)
+`r emo::ji("handshake")`[Code of Conduct](#coc)  
+`r emo::ji("graduation_cap")`[Our Courses](#courses)  
 `r emo::ji("family")`[The Cloud-SPAN Community](#community)   
 `r emo::ji("pushpin")`[FAIR Principles](#fair-principles)   
 `r emo::ji("scroll")`[Cloud-SPAN Online Forum](#forum)

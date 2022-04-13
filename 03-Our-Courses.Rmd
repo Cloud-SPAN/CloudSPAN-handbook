@@ -34,7 +34,7 @@ Next course dates:
 
 ## Future Courses
 ### Create your own AWS instance
-This mostly online course will be on [creating and managing an Amazon Web Service instance(https://cloud-span.github.io/create-aws-instance-0-overview/), intended to guide participants through the process of setting launching their own cloud instance in order to:
+This mostly online course will be on [creating and managing an [Amazon Web Service instance](https://cloud-span.github.io/create-aws-instance-0-overview/), intended to guide participants through the process of setting launching their own cloud instance in order to:
 
 - study course materials further
 - perform more complex analyses on their own data.
