@@ -16,8 +16,8 @@ NO prior experience is necessary.
 This course will next run in mid-November. However, all training resources remain [available online for self-study purposes](https://cloud-span.github.io/prenomics00-intro/).
 
 Next course dates:  
-`r emo::ji("tear_off_calendar")` Tue 15th November, 10am-1pm  
-`r emo::ji("tear_off_calendar")` Weds 16th November, 10am-1pm  
+📆 Tue 15th November, 10am-1pm  
+📆 Weds 16th November, 10am-1pm  
 
 ## Genomics Course {#genomics}
 ['Genomics'](https://cloud-span.github.io/00genomics/) is a practical, tutor-led course taking place over 4 half days or 2 full days (roughly twelve hours of content). It teaches data management and analytical skills using cloud resources for genomic research. Previously it has been held online due to Covid-19 but the next Genomics course will be held in-person.
@@ -29,8 +29,8 @@ A basic knowledge of the shell is required, which can be obtained by attending/s
 This course will next run in mid-November. However, all training resources remain [available online for self-study purposes](https://cloud-span.github.io/00genomics/).
 
 Next course dates:  
-`r emo::ji("tear_off_calendar")` Tues 22nd November, 9:30am-4:30pm  
-`r emo::ji("tear_off_calendar")` Weds 23rd November, 9:30am-4:30pm  
+📆 Tues 22nd November, 9:30am-4:30pm  
+📆 Weds 23rd November, 9:30am-4:30pm  
 
 ## Future Courses
 ### Create your own AWS instance

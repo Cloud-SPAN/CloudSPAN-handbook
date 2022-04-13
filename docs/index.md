@@ -10,10 +10,9 @@ url: 'https://github.com/evelyngreeves/CloudSPAN-handbook'
 description: "Handbook for University of York Biology Department's Cloud-SPAN project."
 ---
 
-# Preface {-}
+# Welcome! {-}
 ![](images/cloud-span-logo-text.png)
-
-This is the handbook for University of York Biology Department's [Cloud-SPAN](https://cloud-span.york.ac.uk/) project.
+*Welcome to the (Cloud-SPAN)[https://cloud-span.york.ac.uk/] handbook! It's great to have you here!*
 
 ## Handbook Contents 📋 {-}
 ⭐[Introduction](https://cloud-span.github.io/CloudSPAN-handbook/introduction.html)   
