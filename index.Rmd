@@ -12,7 +12,7 @@ description: "Handbook for University of York Biology Department's Cloud-SPAN pr
 
 # Welcome! {-}
 ![](images/cloud-span-logo-text.png)
-*Welcome to the (Cloud-SPAN)[https://cloud-span.york.ac.uk/] handbook! It's great to have you here!*
+*Welcome to the [Cloud-SPAN](https://cloud-span.york.ac.uk/)handbook! It's great to have you here!*
 
 ## Handbook Contents `r emo::ji("clipboard")` {-}
 `r emo::ji("star")`[Introduction](https://cloud-span.github.io/CloudSPAN-handbook/introduction.html)   
