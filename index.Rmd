@@ -16,7 +16,8 @@ description: "Handbook for University of York Biology Department's Cloud-SPAN pr
 
 ## Handbook Contents `r emo::ji("clipboard")` {-}
 `r emo::ji("star")`[Introduction](#intro)   
-`r emo::ji("handshake")`[Code of Conduct](#coc)  
+`r emo::ji("handshake")`[Code of Conduct](#coc)
+`r emo::ji("graduation-cap")`[Our Courses](#courses)
 `r emo::ji("family")`[The Cloud-SPAN Community](#community)   
 `r emo::ji("pushpin")`[FAIR Principles](#fair-principles)   
 `r emo::ji("scroll")`[Cloud-SPAN Online Forum](#forum)
