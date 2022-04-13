@@ -3,7 +3,7 @@
 This is the handbook for University of York Biology Department's [Cloud-SPAN](cloud-span.york.ac.uk) project. Read the book :sparkles: [here](https://cloud-span.github.io/CloudSPAN-handbook/) :sparkles:.
 
 ## What is Cloud-SPAN?
-Cloud-SPAN wants to teach YOU how to generate and analyse 'omics data using an accessible and easy-to-use cloud setup. You don't even need to have any experience with bioinformatics to access our [foundation course](https://cloud-span.github.io/genomics01-intro/)!
+Cloud-SPAN wants to teach YOU how to generate and analyse 'omics data using an accessible and easy-to-use cloud setup. You don't even need to have any experience with bioinformatics to access our [foundation courses](https://sites.google.com/york.ac.uk/cloud-span/train-with-us#h.mmwytfj4dl5h)!
 
 ## Handbook Contents :clipboard:
 :star:[Introduction](https://cloud-span.github.io/CloudSPAN-handbook/introduction.html)   
