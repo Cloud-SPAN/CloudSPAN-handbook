@@ -170,9 +170,10 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 10px;}
 <p><strong>Findable</strong> is all about making sure data/resources are as easy to find as possible.</p>
 <p>How we’re making resources <strong>findable</strong> at Cloud-SPAN:</p>
 <ul>
-<li>We will be assigning persistent identifiers to our teaching materials to prevent “link rot,” or broken links.</li>
-<li>We will register our teaching materials with an appropriate registry (e.g. Carpentries Incubator), so they are easier to find.</li>
-<li>We will be describing all our resources with rich metadata so they can be aggregated by the right registries.</li>
+<li>We have added rich metadata to our teaching resources using the <a href="https://bioschemas.org/">Bioschemas</a> protocol for training materials.</li>
+<li>We have assigned DOIs to our training materials by depositing them in Zenodo.</li>
+<li>We will be registering our training materials with TeSS, a repository for life sciences training resources.</li>
+<li>We will be assigning persistent identifiers to our teaching materials to prevent “link rot”, or broken links.</li>
 </ul>
 </div>
 <div id="accessible" class="section level3 unnumbered">
@@ -180,7 +181,8 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 10px;}
 <p><strong>Accessible</strong> means it is easy to find out how to access the data/resources.</p>
 <p>How we’re making resources <strong>accessible</strong> at Cloud-SPAN:</p>
 <ul>
-<li>Our resources will be openly available, with no caveats, for use by those who cannot attend our workshops or who prefer self-led study.</li>
+<li>Our training materials will be openly available, with no caveats, for use by those who cannot attend our workshops or who prefer self-led study.</li>
+<li>We state this in the metadata of resources and on the webpages hosting the courses.</li>
 </ul>
 </div>
 <div id="interoperable" class="section level3 unnumbered">
@@ -188,16 +190,19 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 10px;}
 <p><strong>Interoperable</strong> means data/resources can be easily integrated with other data/resources, and be viewable in different programs, applications or workflows.</p>
 <p>How we’re making resources <strong>interoperable</strong> at Cloud-SPAN:</p>
 <ul>
-<li>We will supply data which are readable across different programs</li>
-<li>We are providing resources in Markdown, meaning they should display in most browsers.</li>
+<li>We provide data for analysis in de facto standard file formats, such as the FASTQ format for sequencing data.</li>
+<li>We write our training resources in Markdown, a widely used and platform-independent text formatting language which renders in all browsers.</li>
+<li>We use <a href="https://bioschemas.org/profiles/TrainingMaterial/0.9-DRAFT-2020_12_08">Bioschemas</a> markup to add metadata to our resources, which is part of an initiative to standardise how search engines read webpages containing data.</li>
+<li>Within our metadata we use the <a href="http://edamontology.org/page">EDAM topic ontology</a> to describe the topics our courses cover.</li>
 </ul>
 </div>
 <div id="reusable" class="section level3 unnumbered">
 <h3>Reusable</h3>
-<p><strong>Reusable</strong> is about making sure that data/resources are suitable for re-use in different settings.</p>
+<p><strong>Reusable</strong> is about making sure that data/resources are suitable for re-use in different settings by including “richly described metadata” and applying a suitable licence.</p>
 <p>How we’re making resources <strong>reusable</strong> at Cloud-SPAN:</p>
 <ul>
-<li>We will be applying Creative Commons licenses to our resources so they can be reused and remixed by others.</li>
+<li>We have tagged our resources with metadata properties which conform to the Bioschemas suggested list of properties for biosciences training materials.</li>
+<li>We have applied Creative Commons Attribution 4.0 International (CC-BY) licences to our training materials - this is stated in the metadata, in the GitHub repository and on the webpages hosting the courses.</li>
 <li>We welcome (and encourage!) outside contributions of explanations and examples - see the <a href="community.html#ways-to-contribute">Ways to contribute</a> for more information.</li>
 </ul>
 

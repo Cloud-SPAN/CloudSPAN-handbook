@@ -16,29 +16,34 @@ You can read about the ethical values underlying the FAIR principles via the FAI
 
 How we're making resources **findable** at Cloud-SPAN:
 
+- We have added rich metadata to our teaching resources using the [Bioschemas](https://bioschemas.org/) protocol for training materials.
+- We have assigned DOIs to our training materials by depositing them in Zenodo.
+- We will be registering our training materials with TeSS, a repository for life sciences training resources.
 - We will be assigning persistent identifiers to our teaching materials to prevent "link rot", or broken links.
-- We will register our teaching materials with an appropriate registry (e.g. Carpentries Incubator), so they are easier to find.
-- We will be describing all our resources with rich metadata so they can be aggregated by the right registries.
 
 ### Accessible {-}
 **Accessible** means it is easy to find out how to access the data/resources.
 
 How we're making resources **accessible** at Cloud-SPAN:
 
-- Our resources will be openly available, with no caveats, for use by those who cannot attend our workshops or who prefer self-led study.
+- Our training materials will be openly available, with no caveats, for use by those who cannot attend our workshops or who prefer self-led study.
+- We state this in the metadata of resources and on the webpages hosting the courses.
 
 ### Interoperable {-}
 **Interoperable** means data/resources can be easily integrated with other data/resources, and be viewable in different programs, applications or workflows.
 
 How we're making resources **interoperable** at Cloud-SPAN:
 
-- We will supply data which are readable across different programs
-- We are providing resources in Markdown, meaning they should display in most browsers.
+- We provide data for analysis in de facto standard file formats, such as the FASTQ format for sequencing data.
+- We write our training resources in Markdown, a widely used and platform-independent text formatting language which renders in all browsers.
+- We use [Bioschemas](https://bioschemas.org/profiles/TrainingMaterial/0.9-DRAFT-2020_12_08) markup to add metadata to our resources, which is part of an initiative to standardise how search engines read webpages containing data.
+- Within our metadata we use the [EDAM topic ontology](http://edamontology.org/page) to describe the topics our courses cover.
 
 ### Reusable {-}
-**Reusable** is about making sure that data/resources are suitable for re-use in different settings.
+**Reusable** is about making sure that data/resources are suitable for re-use in different settings by including "richly described metadata" and applying a suitable licence.
 
 How we're making resources **reusable** at Cloud-SPAN:
 
-- We will be applying Creative Commons licenses to our resources so they can be reused and remixed by others.
+- We have tagged our resources with metadata properties which conform to the Bioschemas suggested list of properties for biosciences training materials.
+- We have applied Creative Commons Attribution 4.0 International (CC-BY) licences to our training materials - this is stated in the metadata, in the GitHub repository and on the webpages hosting the courses.
 - We welcome (and encourage!) outside contributions of explanations and examples - see the [Ways to contribute] for more information.
