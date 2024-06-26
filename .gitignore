@@ -6,3 +6,5 @@ _bookdown_files
 *.rds
 .Rapp.history
 /.quarto/
+*_cache/
+_book/
