@@ -24,7 +24,7 @@
     "href": "intro.html",
     "title": "2  Introduction",
     "section": "",
-    "text": "2.1 About Cloud-SPAN\nCloud-SPAN deploys high quality learning resources that will train researchers to effectively generate and analyse a range of ’omics data using Cloud computing resources. Read more about our courses.\nCloud-SPAN is a collaboration between the Department of Biology at the University of York and the Software Sustainability Institute, and funded by the UKRI innovation scholars award under project reference MR/V038680/1.",
+    "text": "About Cloud-SPAN\nCloud-SPAN deploys high quality learning resources that will train researchers to effectively generate and analyse a range of ’omics data using Cloud computing resources. Read more about our courses.\nCloud-SPAN is a collaboration between the Department of Biology at the University of York and the Software Sustainability Institute, and funded by the UKRI innovation scholars award under project reference MR/V038680/1.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -33,8 +33,8 @@
     "objectID": "intro.html#about-this-handbook",
     "href": "intro.html#about-this-handbook",
     "title": "2  Introduction",
-    "section": "2.2 About this handbook",
-    "text": "2.2 About this handbook\nThis handbook is intended as a reference for both the core Cloud-SPAN team (see below) and for our wider community of learners. It’s where you’ll find our [Code of Conduct], contributing guidelines and other practical information which will help you make the most of our resources in a friendly, understanding environment.",
+    "section": "About this handbook",
+    "text": "About this handbook\nThis handbook is intended as a reference for both the core Cloud-SPAN team (see below) and for our wider community of learners. It’s where you’ll find our Code of Conduct, contributing guidelines and other practical information which will help you make the most of our resources in a friendly, understanding environment.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -43,8 +43,8 @@
     "objectID": "intro.html#our-team",
     "href": "intro.html#our-team",
     "title": "2  Introduction",
-    "section": "2.3 Our Team",
-    "text": "2.3 Our Team\n\n2.3.1 Project team\n\n\n\nName\nRole\nInstitution\n\n\n\n\n\n\nEmma Rand\nProject oversight\nUni of York\n\n\n\n\nJorge Buenabad-Chavez\nCloud deliverer\nUni of York\n\n\n\n\nEvelyn Greeves\nFAIR Training Lead\nUni of York\n\n\n\n\nPasky Miranda\nResearch Training Lead\nUni of York\n\n\n\n\nSarah Dowsland\nProject Manager\nUni of York",
+    "section": "Our Team",
+    "text": "Our Team\n\nProject team\n\n\n\nName\nRole\nInstitution\n\n\n\n\n\n\nEmma Rand\nProject oversight\nUni of York\n\n\n\n\nJorge Buenabad-Chavez\nCloud deliverer\nUni of York\n\n\n\n\nEvelyn Greeves\nFAIR Training Lead\nUni of York\n\n\n\n\nPasky Miranda\nResearch Training Lead\nUni of York\n\n\n\n\nSarah Dowsland\nProject Manager\nUni of York",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -54,7 +54,7 @@
     "href": "code-of-conduct.html",
     "title": "3  Code of Conduct",
     "section": "",
-    "text": "3.1 Preamble\nThe CloudSPAN team are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. As such, we do not tolerate behaviour that is disrespectful to our community members or that excludes, intimidates, or causes discomfort to others. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to: gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, and experience level.\nEveryone who participates in CloudSPAN project activities is required to conform to this Code of Conduct. This Code of Conduct applies to all spaces managed by the CloudSPAN project including, but not limited to, in person focus groups and workshops, and communications online via GitHub. By participating, contributors indicate their acceptance of the procedures by which the project core development team resolves any Code of Conduct incidents, which may include storage and processing of their personal information.",
+    "text": "Preamble\nThe CloudSPAN team are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. As such, we do not tolerate behaviour that is disrespectful to our community members or that excludes, intimidates, or causes discomfort to others. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to: gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, and experience level.\nEveryone who participates in CloudSPAN project activities is required to conform to this Code of Conduct. This Code of Conduct applies to all spaces managed by the CloudSPAN project including, but not limited to, in person focus groups and workshops, and communications online via GitHub. By participating, contributors indicate their acceptance of the procedures by which the project core development team resolves any Code of Conduct incidents, which may include storage and processing of their personal information.",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Code of Conduct</span>"
     ]
@@ -63,8 +63,8 @@
     "objectID": "code-of-conduct.html#our-code-of-conduct",
     "href": "code-of-conduct.html#our-code-of-conduct",
     "title": "3  Code of Conduct",
-    "section": "3.2 Our Code of Conduct",
-    "text": "3.2 Our Code of Conduct\nWe are confident that our community members will together build a supportive and collaborative atmosphere at our events and during online communications. The following bullet points set out explicitly what we hope you will consider to be appropriate community guidelines:\n\nBe respectful of different viewpoints and experiences. Do not engage in homophobic, racist, transphobic, ageist, ableist, sexist, or otherwise exclusionary behaviour.\nUse welcoming and inclusive language. Exclusionary comments or jokes, threats or violent language are not acceptable. Do not address others in an angry, intimidating, or demeaning manner. Be considerate of the ways the words you choose may impact others. Be patient and respectful of the fact that English is a second (or third or fourth!) language for some participants.\nDo not harass people. Harassment includes unwanted physical contact, sexual attention, or repeated social contact (see below for an extended list of behaviours we consider to be harassment). Know that consent is explicit, conscious and continuous—not implied. If you are unsure whether your behaviour towards another person is welcome, ask them. If someone tells you to stop, do so.\nRespect the privacy and safety of others. Do not take photographs of others without their permission. Do not share other participant’s personal experiences without their express permission. Note that posting (or threatening to post) personally identifying information of others without their consent (“doxing”) is a form of harassment.\nBe considerate of others’ participation. Everyone should have an opportunity to be heard. In update sessions, please keep comments succinct so as to allow maximum engagement by all participants. Do not interrupt others on the basis of disagreement; hold such comments until they have finished speaking.\nDon’t be a bystander. If you see something inappropriate happening, speak up. If you don’t feel comfortable intervening but feel someone should, please feel free to ask a member of the Code of Conduct response team for support.\nAs an overriding general rule, please be intentional in your actions and humble in your mistakes.\n\nAll interactions should be professional regardless of platform: either online or in-person. See this explanation of the four social rules - no feigning surprise, no well-actually’s, no back-seat driving, no subtle -isms - for further recommendations for inclusive behaviours.\n\n3.2.1 Unacceptable Behaviour\nExamples of unacceptable behaviour by community members at any project event or platform include:\n\nwritten or verbal comments which have the effect of excluding people on the basis of membership of any specific group\ncausing someone to fear for their safety, such as through stalking, following, or intimidation\nviolent threats or language directed against another person\nthe display of sexual or violent images\nunwelcome sexual attention\nnonconsensual or unwelcome physical contact\nsustained disruption of talks, events or communications\ninsults or put downs\nsexist, racist, homophobic, transphobic, ableist, or exclusionary jokes\nexcessive swearing\nincitement to violence, suicide, or self-harm\ncontinuing to initiate interaction (including photography or recording) with someone after being asked to stop\npublication of private communication without consent\n\nCloudSPAN prioritises marginalised people’s safety over privileged people’s comfort. We will not act on complaints regarding:\n\n‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’.\nReasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”\nCommunicating in a ‘tone’ you don’t find congenial.\nCriticism of racist, sexist, cissexist, or otherwise oppressive behavior or assumptions.",
+    "section": "Our Code of Conduct",
+    "text": "Our Code of Conduct\nWe are confident that our community members will together build a supportive and collaborative atmosphere at our events and during online communications. The following bullet points set out explicitly what we hope you will consider to be appropriate community guidelines:\n\nBe respectful of different viewpoints and experiences. Do not engage in homophobic, racist, transphobic, ageist, ableist, sexist, or otherwise exclusionary behaviour.\nUse welcoming and inclusive language. Exclusionary comments or jokes, threats or violent language are not acceptable. Do not address others in an angry, intimidating, or demeaning manner. Be considerate of the ways the words you choose may impact others. Be patient and respectful of the fact that English is a second (or third or fourth!) language for some participants.\nDo not harass people. Harassment includes unwanted physical contact, sexual attention, or repeated social contact (see below for an extended list of behaviours we consider to be harassment). Know that consent is explicit, conscious and continuous—not implied. If you are unsure whether your behaviour towards another person is welcome, ask them. If someone tells you to stop, do so.\nRespect the privacy and safety of others. Do not take photographs of others without their permission. Do not share other participant’s personal experiences without their express permission. Note that posting (or threatening to post) personally identifying information of others without their consent (“doxing”) is a form of harassment.\nBe considerate of others’ participation. Everyone should have an opportunity to be heard. In update sessions, please keep comments succinct so as to allow maximum engagement by all participants. Do not interrupt others on the basis of disagreement; hold such comments until they have finished speaking.\nDon’t be a bystander. If you see something inappropriate happening, speak up. If you don’t feel comfortable intervening but feel someone should, please feel free to ask a member of the Code of Conduct response team for support.\nAs an overriding general rule, please be intentional in your actions and humble in your mistakes.\n\nAll interactions should be professional regardless of platform: either online or in-person. See this explanation of the four social rules - no feigning surprise, no well-actually’s, no back-seat driving, no subtle -isms - for further recommendations for inclusive behaviours.\n\nUnacceptable Behaviour\nExamples of unacceptable behaviour by community members at any project event or platform include:\n\nwritten or verbal comments which have the effect of excluding people on the basis of membership of any specific group\ncausing someone to fear for their safety, such as through stalking, following, or intimidation\nviolent threats or language directed against another person\nthe display of sexual or violent images\nunwelcome sexual attention\nnonconsensual or unwelcome physical contact\nsustained disruption of talks, events or communications\ninsults or put downs\nsexist, racist, homophobic, transphobic, ableist, or exclusionary jokes\nexcessive swearing\nincitement to violence, suicide, or self-harm\ncontinuing to initiate interaction (including photography or recording) with someone after being asked to stop\npublication of private communication without consent\n\nCloudSPAN prioritises marginalised people’s safety over privileged people’s comfort. We will not act on complaints regarding:\n\n‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’.\nReasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”\nCommunicating in a ‘tone’ you don’t find congenial.\nCriticism of racist, sexist, cissexist, or otherwise oppressive behavior or assumptions.",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Code of Conduct</span>"
     ]
@@ -73,8 +73,8 @@
     "objectID": "code-of-conduct.html#incident-reporting-guidelines",
     "href": "code-of-conduct.html#incident-reporting-guidelines",
     "title": "3  Code of Conduct",
-    "section": "3.3 Incident Reporting Guidelines",
-    "text": "3.3 Incident Reporting Guidelines\n\n3.3.1 Contact points\nIf you feel able to, please contact Emma Rand by email at emma.rand@york.ac.uk\n\n\n3.3.2 Alternate contact points\nIf you do not feel comfortable contacting Emma Rand, please report an incident to Evelyn Greeves by email at evelyn.greeves@york.ac.uk",
+    "section": "Incident Reporting Guidelines",
+    "text": "Incident Reporting Guidelines\n\nContact points\nIf you feel able to, please contact Emma Rand by email at emma.rand@york.ac.uk\n\n\nAlternate contact points\nIf you do not feel comfortable contacting Emma Rand, please report an incident to Evelyn Greeves by email at evelyn.greeves@york.ac.uk",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Code of Conduct</span>"
     ]
@@ -83,8 +83,8 @@
     "objectID": "code-of-conduct.html#acknowledgements",
     "href": "code-of-conduct.html#acknowledgements",
     "title": "3  Code of Conduct",
-    "section": "3.4 Acknowledgements",
-    "text": "3.4 Acknowledgements\nThis Code was adapted from the Turing Way Code of Conduct, which itself draws from the Carpentries and Alan Turing Institute Data Study Group codes of conduct. Both are licensed for reuse under a CC BY 4.0 CA license.\nMaterial was additionally drawn from the R Community Diversity, Equity, and Inclusion Working Group, also licensed under CC BY 4.0 CA.",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nThis Code was adapted from the Turing Way Code of Conduct, which itself draws from the Carpentries and Alan Turing Institute Data Study Group codes of conduct. Both are licensed for reuse under a CC BY 4.0 CA license.\nMaterial was additionally drawn from the R Community Diversity, Equity, and Inclusion Working Group, also licensed under CC BY 4.0 CA.",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Code of Conduct</span>"
     ]
@@ -94,7 +94,17 @@
     "href": "our-courses.html",
     "title": "4  Our Courses",
     "section": "",
-    "text": "4.1 Prenomics Course\n‘Prenomics’ is an interactive online course on understanding file systems and using the command line which takes place over 2 half days (roughly six hours of content). We developed this course after finding that people taking the Genomics course vary in their experiencing of navigating file systems and the command line (shell).\nTopics covered include file directory structure, logging onto a cloud instance, basic shell commands and using the shell to manipulate and search files.\nNO prior experience is necessary.\nThis course will next run in mid-November. However, all training resources remain available online for self-study purposes.\nNext course dates:\nr emo::ji(\"tear_off_calendar\") Tue 15th November, 10am-1pm\nr emo::ji(\"tear_off_calendar\") Weds 16th November, 10am-1pm",
+    "text": "Prenomics\nPrenomics is an interactive online course on understanding file systems and using the command line which takes place over 2 half days (roughly six hours of content). We developed this course after finding that people taking the Genomics course vary in their experiencing of navigating file systems and the command line (shell).\nTopics covered include:\nNO prior experience is necessary.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Our Courses</span>"
+    ]
+  },
+  {
+    "objectID": "our-courses.html#prenomics",
+    "href": "our-courses.html#prenomics",
+    "title": "4  Our Courses",
+    "section": "",
+    "text": "file directory structure\nlogging onto a cloud instance\nbasic shell commands\nusing the shell to manipulate and search files",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Our Courses</span>"
     ]
@@ -103,18 +113,48 @@
     "objectID": "our-courses.html#genomics",
     "href": "our-courses.html#genomics",
     "title": "4  Our Courses",
-    "section": "4.2 Genomics Course",
-    "text": "4.2 Genomics Course\n‘Genomics’ is a practical, tutor-led course taking place over 4 half days or 2 full days (roughly twelve hours of content). It teaches data management and analytical skills using cloud resources for genomic research. Previously it has been held online due to Covid-19 but the next Genomics course will be held in-person.\nTopics covered include project management for cloud genomics, writing shell scripts, automating workflows, assessing read quality, trimming/filtering reads and finding sequence variants.\nA basic knowledge of the shell is required, which can be obtained by attending/self-studying the Prenomics course.\nThis course will next run in mid-November. However, all training resources remain available online for self-study purposes.\nNext course dates:\nr emo::ji(\"tear_off_calendar\") Tues 22nd November, 9:30am-4:30pm\nr emo::ji(\"tear_off_calendar\") Weds 23rd November, 9:30am-4:30pm",
+    "section": "Genomics",
+    "text": "Genomics\nGenomics is a practical, tutor-led course taking place over 4 half days or 2 full days (roughly twelve hours of content). It teaches data management and analytical skills using cloud resources for genomic research.\nTopics covered include:\n\nproject management for cloud genomics\nwriting shell scripts\nassessing read quality\ntrimming/filtering reads\nfinding sequence variants.\n\nA basic knowledge of the shell is required, which can be obtained by attending/self-studying the Prenomics course.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Our Courses</span>"
     ]
   },
   {
-    "objectID": "our-courses.html#future-courses",
-    "href": "our-courses.html#future-courses",
+    "objectID": "our-courses.html#metagenomics",
+    "href": "our-courses.html#metagenomics",
     "title": "4  Our Courses",
-    "section": "4.3 Future Courses",
-    "text": "4.3 Future Courses\n\n4.3.1 Create your own AWS instance\nThis mostly online course will be on creating and managing an Amazon Web Service instance, intended to guide participants through the process of setting launching their own cloud instance in order to:\n\nstudy course materials further\nperform more complex analyses on their own data.\n\n\n\n4.3.2 Metagenomics\nThis mostly online course will focus on analysis methods and tools used in metagenomics.",
+    "section": "Metagenomics",
+    "text": "Metagenomics\nMetagenomics teaches data analysis for metagenomics projects. It runs asynchronously with a mixture of taught sessions, offline self-study and drop-in sessions.\nTopics covered include:\n\nan introduction to metagenomics and what it can be used for\nperforming quality control on long and short reads\nimproving your assembly with polishing\nbinning into species/metagenome-assembled genomes (MAGs)\ntaxonomic assignment and functional annotation\n\nNo prior knowledge of the shell is required as this course includes two sessions of Prenomics material.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Our Courses</span>"
+    ]
+  },
+  {
+    "objectID": "our-courses.html#create-aws",
+    "href": "our-courses.html#create-aws",
+    "title": "4  Our Courses",
+    "section": "Create Your Own AWS Instance",
+    "text": "Create Your Own AWS Instance\nThis course shows you how to create and manage an Amazon Web Service instance like the ones used in all our courses, in order to:\n\nstudy course materials further\nperform more complex analyses on your own data.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Our Courses</span>"
+    ]
+  },
+  {
+    "objectID": "our-courses.html#core-r",
+    "href": "our-courses.html#core-r",
+    "title": "4  Our Courses",
+    "section": "Core R",
+    "text": "Core R\nThis short 2 hour course provides a whistle-stop tour of the R programming language and RStudio environment for total beginners. You will learn how to navigate RStudio, use the manual, import data and summarise/visualise it with a plot.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Our Courses</span>"
+    ]
+  },
+  {
+    "objectID": "our-courses.html#cloud-admin",
+    "href": "our-courses.html#cloud-admin",
+    "title": "4  Our Courses",
+    "section": "Automated Management of AWS Instances",
+    "text": "Automated Management of AWS Instances\nAutomated Management of AWS Instances is aimed at experienced command line users who have an interest in deploying and managing cloud resources for training purposes.\nNo prior knowledge of AWS concepts or tools is needed but learners should have significant experience with the Unix terminal and programming with Bash.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Our Courses</span>"
     ]
@@ -122,51 +162,51 @@
   {
     "objectID": "contributing-guide.html",
     "href": "contributing-guide.html",
-    "title": "5  The Cloud-SPAN commmunity",
+    "title": "6  The Cloud-SPAN commmunity",
     "section": "",
-    "text": "5.1 Ways to contribute",
+    "text": "6.1 Ways to contribute",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>The Cloud-SPAN commmunity</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Cloud-SPAN commmunity</span>"
     ]
   },
   {
     "objectID": "contributing-guide.html#ways-to-contribute",
     "href": "contributing-guide.html#ways-to-contribute",
-    "title": "5  The Cloud-SPAN commmunity",
+    "title": "6  The Cloud-SPAN commmunity",
     "section": "",
     "text": "Learn\n\nAttend or work through our Foundations in Genomics course.\n\n\n\nConnect\n\nJoin our Community of Practice.\n\n\n\nHelp\n\nTell us about bugs or problems you encounter in the course.\n\n\n\nExpand\n\nSuggest new/different software tools for analysis.\nContribute new examples.\nAttend one of our ’Train the Trainer” courses so you can take parts of the course back to teach at your home institution.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>The Cloud-SPAN commmunity</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Cloud-SPAN commmunity</span>"
     ]
   },
   {
     "objectID": "contributing-guide.html#using-github-to-contribute",
     "href": "contributing-guide.html#using-github-to-contribute",
-    "title": "5  The Cloud-SPAN commmunity",
-    "section": "5.2 Using GitHub to contribute",
-    "text": "5.2 Using GitHub to contribute\nWe use GitHub as a tool for managing version control (AKA keeping a record of the project’s development). This helps us stay accountable and transparent. It’s also one of the ways we are making steps towards adhering to the [FAIR Principles].\nIf you want to contribute any content such as an update to the course or a new example then via GitHub is the best place to get in contact. For lots more guidance about how to contribute via GitHub, read our GitHub Contribution Guide.\nGit (the programming language underlying Github) and Github can be a little intimidating at first but don’t worry, the team are here to hold your hand! 🤝",
+    "title": "6  The Cloud-SPAN commmunity",
+    "section": "6.2 Using GitHub to contribute",
+    "text": "6.2 Using GitHub to contribute\nWe use GitHub as a tool for managing version control (AKA keeping a record of the project’s development). This helps us stay accountable and transparent. It’s also one of the ways we are making steps towards adhering to the [FAIR Principles].\nIf you want to contribute any content such as an update to the course or a new example then via GitHub is the best place to get in contact. For lots more guidance about how to contribute via GitHub, read our GitHub Contribution Guide.\nGit (the programming language underlying Github) and Github can be a little intimidating at first but don’t worry, the team are here to hold your hand! 🤝",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>The Cloud-SPAN commmunity</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Cloud-SPAN commmunity</span>"
     ]
   },
   {
     "objectID": "FAIR-principles.html",
     "href": "FAIR-principles.html",
-    "title": "6  FAIR Principles",
+    "title": "7  FAIR Principles",
     "section": "",
-    "text": "6.1 What is FAIR data?\nThese principles are designed to help both humans and machines find and reuse data as easily as possible. They are aspirational but tangible steps can be made towards realising them.\nYou can read about the ethical values underlying the FAIR principles via the FAIR Cookbook here.",
+    "text": "What is FAIR data?\nThese principles are designed to help both humans and machines find and reuse data as easily as possible. They are aspirational but tangible steps can be made towards realising them.\nYou can read about the ethical values underlying the FAIR principles via the FAIR Cookbook here.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>FAIR Principles</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>FAIR Principles</span>"
     ]
   },
   {
     "objectID": "FAIR-principles.html#what-is-fair-data",
     "href": "FAIR-principles.html#what-is-fair-data",
-    "title": "6  FAIR Principles",
+    "title": "7  FAIR Principles",
     "section": "",
     "text": "FAIR data is Findable, Accessible, Interoperable and Reusable.\n\n\n\n\nFindable\nFindable is all about making sure data/resources are as easy to find as possible.\nHow we’re making resources findable at Cloud-SPAN:\n\nWe have added rich metadata to our teaching resources using the Bioschemas protocol for training materials.\nWe have assigned DOIs to our training materials by depositing them in Zenodo.\nWe will be registering our training materials with TeSS, a repository for life sciences training resources.\nWe will be assigning persistent identifiers to our teaching materials to prevent “link rot”, or broken links.\n\n\n\nAccessible\nAccessible means it is easy to find out how to access the data/resources.\nHow we’re making resources accessible at Cloud-SPAN:\n\nOur training materials will be openly available, with no caveats, for use by those who cannot attend our workshops or who prefer self-led study.\nWe state this in the metadata of resources and on the webpages hosting the courses.\n\n\n\nInteroperable\nInteroperable means data/resources can be easily integrated with other data/resources, and be viewable in different programs, applications or workflows.\nHow we’re making resources interoperable at Cloud-SPAN:\n\nWe provide data for analysis in de facto standard file formats, such as the FASTQ format for sequencing data.\nWe write our training resources in Markdown, a widely used and platform-independent text formatting language which renders in all browsers.\nWe use Bioschemas markup to add metadata to our resources, which is part of an initiative to standardise how search engines read webpages containing data.\nWithin our metadata we use the EDAM topic ontology to describe the topics our courses cover.\n\n\n\nReusable\nReusable is about making sure that data/resources are suitable for re-use in different settings by including “richly described metadata” and applying a suitable licence.\nHow we’re making resources reusable at Cloud-SPAN:\n\nWe have tagged our resources with metadata properties which conform to the Bioschemas suggested list of properties for biosciences training materials.\nWe have applied Creative Commons Attribution 4.0 International (CC-BY) licences to our training materials - this is stated in the metadata, in the GitHub repository and on the webpages hosting the courses.\nWe welcome (and encourage!) outside contributions of explanations and examples - see the [Ways to contribute] for more information.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>FAIR Principles</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>FAIR Principles</span>"
     ]
   }
 ]

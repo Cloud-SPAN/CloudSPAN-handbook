@@ -30,7 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./contributing-guide.html" rel="next">
+<link href="./self-study.html" rel="next">
 <link href="./code-of-conduct.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -132,14 +132,20 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./self-study.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Self-studying</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./contributing-guide.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">The Cloud-SPAN commmunity</span></span></a>
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">The Cloud-SPAN commmunity</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./FAIR-principles.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">FAIR Principles</span></span></a>
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">FAIR Principles</span></span></a>
   </div>
 </li>
     </ul>
@@ -152,13 +158,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#prenomics" id="toc-prenomics" class="nav-link active" data-scroll-target="#prenomics"><span class="header-section-number">4.1</span> Prenomics Course</a></li>
-  <li><a href="#genomics" id="toc-genomics" class="nav-link" data-scroll-target="#genomics"><span class="header-section-number">4.2</span> Genomics Course</a></li>
-  <li><a href="#future-courses" id="toc-future-courses" class="nav-link" data-scroll-target="#future-courses"><span class="header-section-number">4.3</span> Future Courses</a>
-  <ul class="collapse">
-  <li><a href="#create-your-own-aws-instance" id="toc-create-your-own-aws-instance" class="nav-link" data-scroll-target="#create-your-own-aws-instance"><span class="header-section-number">4.3.1</span> Create your own AWS instance</a></li>
-  <li><a href="#metagenomics" id="toc-metagenomics" class="nav-link" data-scroll-target="#metagenomics"><span class="header-section-number">4.3.2</span> Metagenomics</a></li>
-  </ul></li>
+  <li><a href="#prenomics" id="toc-prenomics" class="nav-link active" data-scroll-target="#prenomics">Prenomics</a></li>
+  <li><a href="#genomics" id="toc-genomics" class="nav-link" data-scroll-target="#genomics">Genomics</a></li>
+  <li><a href="#metagenomics" id="toc-metagenomics" class="nav-link" data-scroll-target="#metagenomics">Metagenomics</a></li>
+  <li><a href="#create-aws" id="toc-create-aws" class="nav-link" data-scroll-target="#create-aws">Create Your Own AWS Instance</a></li>
+  <li><a href="#core-r" id="toc-core-r" class="nav-link" data-scroll-target="#core-r">Core R</a></li>
+  <li><a href="#cloud-admin" id="toc-cloud-admin" class="nav-link" data-scroll-target="#cloud-admin">Automated Management of AWS Instances</a></li>
   </ul>
 </nav>
     </div>
@@ -184,45 +189,82 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Our courses provide a thorough and well-paced introduction to the use of cloud computing resources (via Amazon Web Services) for genomic analysis.</p>
-<p>We currently offer two foundational courses (<a href="#prenomics">Prenomics</a> and <a href="#genomics">Genomics</a>) and are developing further courses on topics such as launching your own cloud instance and metagenomic analysis. A full learning path will be revealed soon.</p>
-<p>All of our courses are offered <strong>free of charge</strong>.</p>
-<section id="prenomics" class="level2" data-number="4.1">
-<h2 data-number="4.1" class="anchored" data-anchor-id="prenomics"><span class="header-section-number">4.1</span> Prenomics Course</h2>
-<p><a href="https://cloud-span.github.io/prenomics00-intro/">‘Prenomics’</a> is an interactive online course on understanding file systems and using the command line which takes place over 2 half days (roughly six hours of content). We developed this course after finding that people taking the Genomics course vary in their experiencing of navigating file systems and the command line (shell).</p>
-<p>Topics covered include file directory structure, logging onto a cloud instance, basic shell commands and using the shell to manipulate and search files.</p>
+<p>We offer courses on topics such as using the command line, genomic analysis and whole metagenome sequencing (WMS) workflows. All of our courses are offered <strong>free of charge</strong>.</p>
+<p>Here’s why we think our courses are special:</p>
+<ul>
+<li>They’re designed to be as accessible as possible to beginners, with lots of guidance and reassurance along the way.</li>
+<li>We use a technique called live coding to keep learners engaged - less lecturing, more doing.</li>
+<li>Most of our courses can either be studied as part of a taught online workshop or as self-study modules. Read more about how to self-study our courses <a href="self-study.html">here</a>.</li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The only course which requires significant prior experience in programming is <a href="#cloud-admin">Automated Management of AWS Instances</a> which is aimed at computing professionals and research software engineers.</p>
+</div>
+</div>
+<section id="prenomics" class="level2">
+<h2 class="anchored" data-anchor-id="prenomics">Prenomics</h2>
+<p><a href="https://cloud-span.github.io/prenomics00-intro/">Prenomics</a> is an interactive online course on understanding file systems and using the command line which takes place over 2 half days (roughly six hours of content). We developed this course after finding that people taking the Genomics course vary in their experiencing of navigating file systems and the command line (shell).</p>
+<p>Topics covered include:</p>
+<ul>
+<li>file directory structure</li>
+<li>logging onto a cloud instance</li>
+<li>basic shell commands</li>
+<li>using the shell to manipulate and search files</li>
+</ul>
 <p>NO prior experience is necessary.</p>
-<p>This course will next run in mid-November. However, all training resources remain <a href="https://cloud-span.github.io/prenomics00-intro/">available online for self-study purposes</a>.</p>
-<p>Next course dates:<br>
-<code>r emo::ji("tear_off_calendar")</code> Tue 15th November, 10am-1pm<br>
-<code>r emo::ji("tear_off_calendar")</code> Weds 16th November, 10am-1pm</p>
 </section>
-<section id="genomics" class="level2" data-number="4.2">
-<h2 data-number="4.2" class="anchored" data-anchor-id="genomics"><span class="header-section-number">4.2</span> Genomics Course</h2>
-<p><a href="https://cloud-span.github.io/00genomics/">‘Genomics’</a> is a practical, tutor-led course taking place over 4 half days or 2 full days (roughly twelve hours of content). It teaches data management and analytical skills using cloud resources for genomic research. Previously it has been held online due to Covid-19 but the next Genomics course will be held in-person.</p>
-<p>Topics covered include project management for cloud genomics, writing shell scripts, automating workflows, assessing read quality, trimming/filtering reads and finding sequence variants.</p>
+<section id="genomics" class="level2">
+<h2 class="anchored" data-anchor-id="genomics">Genomics</h2>
+<p><a href="https://cloud-span.github.io/00genomics/">Genomics</a> is a practical, tutor-led course taking place over 4 half days or 2 full days (roughly twelve hours of content). It teaches data management and analytical skills using cloud resources for genomic research.</p>
+<p>Topics covered include:</p>
+<ul>
+<li>project management for cloud genomics</li>
+<li>writing shell scripts</li>
+<li>assessing read quality</li>
+<li>trimming/filtering reads</li>
+<li>finding sequence variants.</li>
+</ul>
 <p>A basic knowledge of the shell is required, which can be obtained by attending/self-studying the Prenomics course.</p>
-<p>This course will next run in mid-November. However, all training resources remain <a href="https://cloud-span.github.io/00genomics/">available online for self-study purposes</a>.</p>
-<p>Next course dates:<br>
-<code>r emo::ji("tear_off_calendar")</code> Tues 22nd November, 9:30am-4:30pm<br>
-<code>r emo::ji("tear_off_calendar")</code> Weds 23rd November, 9:30am-4:30pm</p>
 </section>
-<section id="future-courses" class="level2" data-number="4.3">
-<h2 data-number="4.3" class="anchored" data-anchor-id="future-courses"><span class="header-section-number">4.3</span> Future Courses</h2>
-<section id="create-your-own-aws-instance" class="level3" data-number="4.3.1">
-<h3 data-number="4.3.1" class="anchored" data-anchor-id="create-your-own-aws-instance"><span class="header-section-number">4.3.1</span> Create your own AWS instance</h3>
-<p>This mostly online course will be on <a href="https://cloud-span.github.io/create-aws-instance-0-overview/">creating and managing an Amazon Web Service instance</a>, intended to guide participants through the process of setting launching their own cloud instance in order to:</p>
+<section id="metagenomics" class="level2">
+<h2 class="anchored" data-anchor-id="metagenomics">Metagenomics</h2>
+<p><a href="https://cloud-span.github.io/nerc-metagenomics-v2q/">Metagenomics</a> teaches data analysis for metagenomics projects. It runs asynchronously with a mixture of taught sessions, offline self-study and drop-in sessions.</p>
+<p>Topics covered include:</p>
+<ul>
+<li>an introduction to metagenomics and what it can be used for</li>
+<li>performing quality control on long and short reads</li>
+<li>improving your assembly with polishing</li>
+<li>binning into species/metagenome-assembled genomes (MAGs)</li>
+<li>taxonomic assignment and functional annotation</li>
+</ul>
+<p>No prior knowledge of the shell is required as this course includes two sessions of <a href="#prenomics">Prenomics</a> material.</p>
+</section>
+<section id="create-aws" class="level2">
+<h2 class="anchored" data-anchor-id="create-aws">Create Your Own AWS Instance</h2>
+<p>This course shows you how to <a href="https://cloud-span.github.io/create-aws-instance-0-overview/">create and manage an Amazon Web Service instance</a> like the ones used in all our courses, in order to:</p>
 <ul>
 <li>study course materials further</li>
-<li>perform more complex analyses on their own data.</li>
+<li>perform more complex analyses on your own data.</li>
 </ul>
 </section>
-<section id="metagenomics" class="level3" data-number="4.3.2">
-<h3 data-number="4.3.2" class="anchored" data-anchor-id="metagenomics"><span class="header-section-number">4.3.2</span> Metagenomics</h3>
-<p>This mostly online course will focus on analysis methods and tools used in metagenomics.</p>
-
-
+<section id="core-r" class="level2">
+<h2 class="anchored" data-anchor-id="core-r">Core R</h2>
+<p>This <a href="https://cloud-span.github.io/core-r/02_intro_to_r_and_working_with_data.html#1">short 2 hour course</a> provides a whistle-stop tour of the R programming language and RStudio environment for total beginners. You will learn how to navigate RStudio, use the manual, import data and summarise/visualise it with a plot.</p>
 </section>
+<section id="cloud-admin" class="level2">
+<h2 class="anchored" data-anchor-id="cloud-admin">Automated Management of AWS Instances</h2>
+<p><a href="https://cloud-span.github.io/cloud-admin-guide-v2q/">Automated Management of AWS Instances</a> is aimed at experienced command line users who have an interest in deploying and managing cloud resources for training purposes.</p>
+<p>No prior knowledge of AWS concepts or tools is needed but learners should have significant experience with the Unix terminal and programming with Bash.</p>
+
+
 </section>
 
 </main> <!-- /main -->
@@ -642,8 +684,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./contributing-guide.html" class="pagination-link" aria-label="The Cloud-SPAN commmunity">
-        <span class="nav-page-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">The Cloud-SPAN commmunity</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./self-study.html" class="pagination-link" aria-label="Self-studying">
+        <span class="nav-page-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Self-studying</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
