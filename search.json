@@ -134,7 +134,7 @@
     "href": "contributing-guide.html#ways-to-contribute",
     "title": "5  The Cloud-SPAN commmunity",
     "section": "",
-    "text": "Learn\n\nAttend or work through our Foundations in Genomics course.\nAsk questions on our community forum.\n\n\n\nConnect\n\nJoin our Community of Practice.\n\n\n\nHelp\n\nAnswer questions on our community forum.\nTell us about bugs or problems you encounter in the course.\n\n\n\nExpand\n\nSuggest new/different software tools for analysis.\nContribute new examples.\nAttend one of our ’Train the Trainer” courses so you can take parts of the course back to teach at your home institution.",
+    "text": "Learn\n\nAttend or work through our Foundations in Genomics course.\n\n\n\nConnect\n\nJoin our Community of Practice.\n\n\n\nHelp\n\nTell us about bugs or problems you encounter in the course.\n\n\n\nExpand\n\nSuggest new/different software tools for analysis.\nContribute new examples.\nAttend one of our ’Train the Trainer” courses so you can take parts of the course back to teach at your home institution.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>The Cloud-SPAN commmunity</span>"
     ]
@@ -144,7 +144,7 @@
     "href": "contributing-guide.html#using-github-to-contribute",
     "title": "5  The Cloud-SPAN commmunity",
     "section": "5.2 Using GitHub to contribute",
-    "text": "5.2 Using GitHub to contribute\nWe use GitHub as a tool for managing version control (AKA keeping a record of the project’s development). This helps us stay accountable and transparent. It’s also one of the ways we are making steps towards adhering to the [FAIR Principles].\nIf you want to contribute any content such as an update to the course or a new example then via GitHub is the best place to get in contact. For lots more guidance about how to contribute via GitHub, read our GitHub Contribution Guide.\nGit (the programming language underlying Github) and Github can be a little intimidating at first but don’t worry, the team are here to hold your hand! r emo::ji(\"handshake\")",
+    "text": "5.2 Using GitHub to contribute\nWe use GitHub as a tool for managing version control (AKA keeping a record of the project’s development). This helps us stay accountable and transparent. It’s also one of the ways we are making steps towards adhering to the [FAIR Principles].\nIf you want to contribute any content such as an update to the course or a new example then via GitHub is the best place to get in contact. For lots more guidance about how to contribute via GitHub, read our GitHub Contribution Guide.\nGit (the programming language underlying Github) and Github can be a little intimidating at first but don’t worry, the team are here to hold your hand! 🤝",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>The Cloud-SPAN commmunity</span>"
     ]
