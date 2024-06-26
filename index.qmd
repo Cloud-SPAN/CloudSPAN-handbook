@@ -11,5 +11,6 @@ title: "Cloud-SPAN Handbook"
 ⭐ [Introduction](#intro)\
 🤝 [Code of Conduct](#coc)\
 🎓 [Our Courses](#courses)\
+✏️ [Self-studying our courses](#self-study)\
 👪 [The Cloud-SPAN Community](#community)\
 📌 [FAIR Principles](#fair-principles)

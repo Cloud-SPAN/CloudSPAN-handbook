@@ -11,6 +11,7 @@ Here's why we think our courses are special:
 - They're designed to be as accessible as possible to beginners, with lots of guidance and reassurance along the way.
 - We use a technique called live coding to keep learners engaged - less lecturing, more doing.
 - Most of our courses can either be studied as part of a taught online workshop or as self-study modules. Read more about how to self-study our courses [here](#self-study).
+- If you participate in a taught course, you'll get free access to an AWS instance containing all the software and data you'll need for the duration of the course.
 
 
 ::: callout-note
