@@ -10,15 +10,24 @@ We are open to people of all backgrounds with an interest in 'omics and/or cloud
 Please be aware of our [Code of Conduct]("https://github.com/Cloud-SPAN/CloudSPAN-handbook-bookdown/blob/master/CODE_OF_CONDUCT.md") which must be respected at all times during Cloud-SPAN events, courses and online interactions.
 
 ## Cloud-SPAN Course Structure
-If you're thinking of making a contribution, it will be useful for you to understand how we structure our courses and repositories.
+If you're thinking of making a contribution, it will be useful for you to understand how we structure our courses and repositories. Currently some of our courses are hosted in a 'Carpentries' format and some are hosted on Quarto websites - but they're all available to contribute to via GitHub.
+
+### For 'Carpentries' style courses ([Prenomics](https://cloud-span.github.io/prenomics00-intro/), [Genomics](https://cloud-span.github.io/00genomics/), [Create Your Own AWS Instance](https://cloud-span.github.io/create-aws-instance-0-overview/))
 
 - Each course is divided into several "lessons". Each lesson contains several "episodes".
-- Each lesson gets its own repository, which is named using the format **course-name** + **number** + **lesson-name**. For example, the first lesson of our Genomics course (*Project Management for Cloud Genomics*) is named **genomics02-proj-mngt-cloud-genomics**.
-    - Be aware that repo-01 of each course is reserved for the course introduction/overview.
-    - This means that the first lesson of each course is labelled as 02, the second as 03 and so on.
-- Each lesson has a homepage which contains introductory information and an overview of the topics included.This page is stored under the name **"index.md"**.
-- Episodes are stored as markdown files inside the relevant lesson repository under a folder named **"_episodes"**.
+- Each lesson gets its own repository, which is named using the format **course-name** + **number** + **lesson-name**. For example, the first lesson of our Genomics course (*Project Management for Cloud Genomics*) is named **genomics01-proj-mngt-cloud-genomics**.
+    - Be aware that repo-00 of each course is reserved for the course introduction/overview.
+    - This means that the first lesson of each course is labelled as 01, the second as 02 and so on.
+- Each lesson has a homepage which contains introductory information and an overview of the topics included.This page is stored under the name `index.md`.
+- Episodes are stored as markdown files inside the relevant lesson repository under a folder named `_episodes`.
     - These episodes are numbered conventionally such that episode-01 corresponds to the first episode of that lesson, episode-02 to the second and so on.
+    
+### For Quarto website courses ([Metagenomics](https://cloud-span.github.io/nerc-metagenomics-v2q/), [Automated Management of AWS Instances](https://cloud-span.github.io/cloud-admin-guide-v2q/))
+
+- These courses are hosted such that all the lessons are together in a single repo which is built using the [Quarto](https://quarto.org/) publishing system.
+- Each lesson exists as its own folder inside `docs`.
+  - The homepage of the lesson is stored inside this folder as `index.qmd`.
+  - Each episode has its own `.qmd` markdown file.
 
 ## Contributing via GitHub 
 

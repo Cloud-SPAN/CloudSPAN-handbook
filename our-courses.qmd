@@ -1,43 +1,70 @@
+---
+number-depth: 1
+---
+
 # Our Courses {#courses}
 
-Our courses provide a thorough and well-paced introduction to the use of cloud computing resources (via Amazon Web Services) for genomic analysis.
+We offer courses on topics such as using the command line, genomic analysis and whole metagenome sequencing (WMS) workflows. All of our courses are offered **free of charge**.
 
-We currently offer two foundational courses ([Prenomics](#prenomics) and [Genomics](#genomics)) and are developing further courses on topics such as launching your own cloud instance and metagenomic analysis. A full learning path will be revealed soon.
+Here's why we think our courses are special:
 
-All of our courses are offered **free of charge**.
+- They're designed to be as accessible as possible to beginners, with lots of guidance and reassurance along the way.
+- We use a technique called live coding to keep learners engaged - less lecturing, more doing.
+- Most of our courses can either be studied as part of a taught online workshop or as self-study modules. Read more about how to self-study our courses [here](#self-study).
 
-## Prenomics Course {#prenomics}
-['Prenomics'](https://cloud-span.github.io/prenomics00-intro/) is an interactive online course on understanding file systems and using the command line which takes place over 2 half days (roughly six hours of content). We developed this course after finding that people taking the Genomics course vary in their experiencing of navigating file systems and the command line (shell).
 
-Topics covered include file directory structure, logging onto a cloud instance, basic shell commands and using the shell to manipulate and search files.
+::: callout-note
+The only course which requires significant prior experience in programming is [Automated Management of AWS Instances](#cloud-admin) which is aimed at computing professionals and research software engineers.
+:::
+
+## Prenomics {#prenomics}
+[Prenomics](https://cloud-span.github.io/prenomics00-intro/) is an interactive online course on understanding file systems and using the command line which takes place over 2 half days (roughly six hours of content). We developed this course after finding that people taking the Genomics course vary in their experiencing of navigating file systems and the command line (shell).
+
+Topics covered include:
+
+- file directory structure
+- logging onto a cloud instance
+- basic shell commands
+- using the shell to manipulate and search files
 
 NO prior experience is necessary.
 
-This course will next run in mid-November. However, all training resources remain [available online for self-study purposes](https://cloud-span.github.io/prenomics00-intro/).
+## Genomics {#genomics}
+[Genomics](https://cloud-span.github.io/00genomics/) is a practical, tutor-led course taking place over 4 half days or 2 full days (roughly twelve hours of content). It teaches data management and analytical skills using cloud resources for genomic research.
 
-Next course dates:  
-`r emo::ji("tear_off_calendar")` Tue 15th November, 10am-1pm  
-`r emo::ji("tear_off_calendar")` Weds 16th November, 10am-1pm  
+Topics covered include:
 
-## Genomics Course {#genomics}
-['Genomics'](https://cloud-span.github.io/00genomics/) is a practical, tutor-led course taking place over 4 half days or 2 full days (roughly twelve hours of content). It teaches data management and analytical skills using cloud resources for genomic research. Previously it has been held online due to Covid-19 but the next Genomics course will be held in-person.
-
-Topics covered include project management for cloud genomics, writing shell scripts, automating workflows, assessing read quality, trimming/filtering reads and finding sequence variants.
+- project management for cloud genomics
+- writing shell scripts
+- assessing read quality
+- trimming/filtering reads
+- finding sequence variants.
 
 A basic knowledge of the shell is required, which can be obtained by attending/self-studying the Prenomics course.
 
-This course will next run in mid-November. However, all training resources remain [available online for self-study purposes](https://cloud-span.github.io/00genomics/).
+## Metagenomics {#metagenomics}
+[Metagenomics](https://cloud-span.github.io/nerc-metagenomics-v2q/) teaches data analysis for metagenomics projects. It runs asynchronously with a mixture of taught sessions, offline self-study and drop-in sessions.
 
-Next course dates:  
-`r emo::ji("tear_off_calendar")` Tues 22nd November, 9:30am-4:30pm  
-`r emo::ji("tear_off_calendar")` Weds 23rd November, 9:30am-4:30pm  
+Topics covered include:
 
-## Future Courses
-### Create your own AWS instance
-This mostly online course will be on [creating and managing an Amazon Web Service instance](https://cloud-span.github.io/create-aws-instance-0-overview/), intended to guide participants through the process of setting launching their own cloud instance in order to:
+- an introduction to metagenomics and what it can be used for
+- performing quality control on long and short reads
+- improving your assembly with polishing
+- binning into species/metagenome-assembled genomes (MAGs)
+- taxonomic assignment and functional annotation
+
+No prior knowledge of the shell is required as this course includes two sessions of [Prenomics](#prenomics) material.
+
+## Create Your Own AWS Instance {#create-aws}
+This course shows you how to [create and manage an Amazon Web Service instance](https://cloud-span.github.io/create-aws-instance-0-overview/) like the ones used in all our courses, in order to:
 
 - study course materials further
-- perform more complex analyses on their own data.
+- perform more complex analyses on your own data.
 
-### Metagenomics
-This mostly online course will focus on analysis methods and tools used in metagenomics.
+## Core R {#core-r}
+This [short 2 hour course](https://cloud-span.github.io/core-r/02_intro_to_r_and_working_with_data.html#1) provides a whistle-stop tour of the R programming language and RStudio environment for total beginners. You will learn how to navigate RStudio, use the manual, import data and summarise/visualise it with a plot.
+
+## Automated Management of AWS Instances {#cloud-admin}
+[Automated Management of AWS Instances](https://cloud-span.github.io/cloud-admin-guide-v2q/) is aimed at experienced command line users who have an interest in deploying and managing cloud resources for training purposes.
+
+No prior knowledge of AWS concepts or tools is needed but learners should have significant experience with the Unix terminal and programming with Bash.

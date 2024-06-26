@@ -1,3 +1,7 @@
+---
+number-depth: 1
+---
+
 # Code of Conduct {#coc}
 
 ## Preamble

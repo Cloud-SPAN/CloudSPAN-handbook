@@ -1,0 +1,5 @@
+---
+number-depth: 1
+---
+
+# Self-studying {#self-study}
