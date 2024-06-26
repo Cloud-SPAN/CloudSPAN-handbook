@@ -1,7 +1,0 @@
-book_filename: "CloudSPAN-handbook"
-chapter_name: "Chapter "
-repo: https://github.com/seankross/bookdown-start
-output_dir: docs
-rmd_files: []
-clean: [packages.bib, bookdown.bbl]
-new_session: yes

@@ -1,0 +1,22 @@
+# Introduction {#intro}
+
+Welcome to the Cloud-SPAN Community Handbook! It's great to have you here.
+
+## About Cloud-SPAN
+Cloud-SPAN deploys high quality learning resources that will train researchers to effectively generate and analyse a range of 'omics data using Cloud computing resources. [Read more about our courses](#courses).
+
+Cloud-SPAN is a collaboration between the [Department of Biology](https://www.york.ac.uk/biology/) at the University of York and the [Software Sustainability Institute](https://www.software.ac.uk/), and funded by the [UKRI innovation scholars award](https://www.ukri.org/news/initiatives-boost-health-and-bioscience-skills-and-industry/) under project reference [MR/V038680/1](https://gtr.ukri.org/projects?ref=MR%2FV038680%2F1).
+
+## About this handbook
+This handbook is intended as a reference for both the core Cloud-SPAN team (see below) and for our wider community of learners. It's where you'll find our [Code of Conduct], contributing guidelines and other practical information which will help you make the most of our resources in a friendly, understanding environment. 
+
+## Our Team
+### Project team
+
+| Name | Role | Institution |
+|---|---|---|---|---|
+| Emma Rand | Project oversight | Uni of York |
+| Jorge Buenabad-Chavez | Cloud deliverer | Uni of York |
+| Evelyn Greeves | FAIR Training Lead | Uni of York |
+| Pasky Miranda | Research Training Lead | Uni of York |
+| Sarah Dowsland | Project Manager | Uni of York |
