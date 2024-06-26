@@ -1,16 +1,16 @@
 # The Cloud-SPAN commmunity {#community}
 
-`r emo::ji("warning")` **Under construction** `r emo::ji("warning")`
+⚠️ **Under construction** ⚠️
 
 Our aim is to build a friendly and involved community of people who have used our resources, are interested in our resources, or who have expertise in the areas we cover.
 
 That means that whether you are...\
 
-`r emo::ji("genetics")` an expert in 'omics analyses \
-`r emo::ji("thinking_face")` a complete newbie at 'omics \
-`r emo::ji("shrug")` not entirely sure what an "omic" is \
-`r emo::ji("cloud")` an experienced Cloud user\
-`r emo::ji("dizzy_face")` a little bewildered by the Cloud\
+🧬 an expert in 'omics analyses\
+🤔 a complete newbie at 'omics\
+🤷 not entirely sure what an "omic" is\
+☁️ an experienced Cloud user\
+😵 a little bewildered by the Cloud\
 
 ...then the Cloud-SPAN community is for you!
 
@@ -20,24 +20,29 @@ Here are some ideas of ways you can contribute:
 
 ## Ways to contribute {#ways-to-contribute}
 
-### Learn {-}
-- Attend or work through our Foundations in Genomics course.
-- Ask questions on our [community forum](https://cloudspan.peerboard.com/).
+### Learn {.unnumbered}
 
-### Connect {-}
-- Join our *Community of Practice*.
+-   Attend or work through our Foundations in Genomics course.
+-   Ask questions on our [community forum](https://cloudspan.peerboard.com/).
 
-### Help {-}
-- Answer questions on our [community forum](https://cloudspan.peerboard.com/).
-- Tell us about bugs or problems you encounter in the course.
+### Connect {.unnumbered}
 
-### Expand {-}
-- Suggest new/different software tools for analysis.
-- Contribute new examples.
-- Attend one of our 'Train the Trainer" courses so you can take parts of the course back to teach at your home institution.
+-   Join our *Community of Practice*.
+
+### Help {.unnumbered}
+
+-   Answer questions on our [community forum](https://cloudspan.peerboard.com/).
+-   Tell us about bugs or problems you encounter in the course.
+
+### Expand {.unnumbered}
+
+-   Suggest new/different software tools for analysis.
+-   Contribute new examples.
+-   Attend one of our 'Train the Trainer" courses so you can take parts of the course back to teach at your home institution.
 
 ## Using GitHub to contribute
-We use GitHub as a tool for managing version control (AKA keeping a record of the project's development). This helps us stay accountable and transparent. It's also one of the ways we are making steps towards adhering to the [FAIR Principles].
+
+We use GitHub as a tool for managing version control (AKA keeping a record of the project's development). This helps us stay accountable and transparent. It's also one of the ways we are making steps towards adhering to the \[FAIR Principles\].
 
 If you want to contribute any content such as an update to the course or a new example then via GitHub is the best place to get in contact. For lots more guidance about how to contribute via GitHub, read our [GitHub Contribution Guide](https://github.com/Cloud-SPAN/CloudSPAN-handbook/blob/main/CONTRIBUTING.md).
 
