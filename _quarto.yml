@@ -7,7 +7,6 @@ book:
   date: ""
   chapters:
     - index.qmd
-    - intro.qmd
     - code-of-conduct.qmd
     - our-courses.qmd
     - self-study.qmd
