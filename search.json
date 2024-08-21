@@ -130,6 +130,26 @@
     ]
   },
   {
+    "objectID": "our-courses.html#future-courses",
+    "href": "our-courses.html#future-courses",
+    "title": "3  Our Courses",
+    "section": "Future Courses",
+    "text": "Future Courses\nWe’re always working on new courses! Current courses in development include:\n\nMetabarcoding, also known as amplicon sequencing\nMetatranscriptomics\n\nWatch this space 👀",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Our Courses</span>"
+    ]
+  },
+  {
+    "objectID": "self-study.html",
+    "href": "self-study.html",
+    "title": "4  Self-studying",
+    "section": "",
+    "text": "You are welcome to study any of our courses at your own pace by self-study. All of our materials are freely available online.\nWe request that you register with us if you intend to self-study our courses. This will allow us to provide you with more information and give you access to an informal weekly drop-in session (via Zoom) so you can get help and ask questions.\n\n\n\n\n\n\nNot sure where to start?\n\n\n\nMany of our courses run inside an Amazon Web Services instance. Our Create Your Own AWS Instance will guide you through setting up an instance identical to the ones we use in our taught courses. This will allow you to follow along with other course materials using all the same data and software.\nPlease note that using an instance may incur a cost. We provide information on this as part of the course, including how to utilise AWS’s free tier and/or apply for research credits.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Self-studying</span>"
+    ]
+  },
+  {
     "objectID": "contributing-guide.html",
     "href": "contributing-guide.html",
     "title": "5  The Cloud-SPAN commmunity",
