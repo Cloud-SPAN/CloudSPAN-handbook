@@ -3,3 +3,15 @@ number-depth: 1
 ---
 
 # Self-studying {#self-study}
+
+You are welcome to study any of our courses at your own pace by self-study. All of our materials are freely available online.
+
+We request that you [register](https://docs.google.com/forms/d/e/1FAIpQLSdWLErllRBoT-VZA0MwY04FphmOWPdQ451hVo9iQQmY5SGQFA/viewform) with us if you intend to self-study our courses. This will allow us to provide you with more information and give you access to an informal weekly drop-in session (via Zoom) so you can get help and ask questions.
+
+::: callout-tip
+## Not sure where to start?
+
+Many of our courses run inside an Amazon Web Services instance. Our [Create Your Own AWS Instance](https://cloud-span.github.io/create-aws-instance-0-overview/) will guide you through setting up an instance identical to the ones we use in our taught courses. This will allow you to follow along with other course materials using all the same data and software.
+
+*Please note that using an instance may incur a cost. We provide information on this as part of the course, including how to utilise AWS's free tier and/or apply for research credits.*
+:::

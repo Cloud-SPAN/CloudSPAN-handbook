@@ -69,3 +69,11 @@ This [short 2 hour course](https://cloud-span.github.io/core-r/02_intro_to_r_and
 [Automated Management of AWS Instances](https://cloud-span.github.io/cloud-admin-guide-v2q/) is aimed at experienced command line users who have an interest in deploying and managing cloud resources for training purposes.
 
 No prior knowledge of AWS concepts or tools is needed but learners should have significant experience with the Unix terminal and programming with Bash.
+
+## Future Courses {#future-courses}
+We're always working on new courses! Current courses in development include:
+
+- Metabarcoding, also known as amplicon sequencing
+- Metatranscriptomics
+
+Watch this space 👀
